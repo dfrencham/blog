@@ -1,0 +1,51 @@
+<html>
+
+<head>
+<style>
+body {
+  font-family: 'helvetica', arial, sans-serif;
+  font-size: 1em;
+}
+#bookmark {
+  color: #ffffff;
+  text-shadow: 1px 1px #000000;
+}
+
+#bookmark > a {
+  /text-decoration: none;
+}
+#bookmark-wrapper a, #bookmark-wrapper a:active, #bookmark-wrapper a:visited, #bookmark-wrapper a:hover
+{
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1.25em;
+}
+#bookmark-wrapper {
+  width: 400px;
+  background-color: #F26100;
+  text-align: center;
+  padding: 10px;
+}
+</style>
+</head>
+<body>
+  <h1>HTML Code Sniffer (Experimental Branch)</h1>
+  This is an experimental branch of <a href="http://squizlabs.github.io/HTML_CodeSniffer/">Squizlabs HTML CodeSniffer</a>.
+  <p />
+
+  <div id="bookmark-wrapper">
+    <a href="javascript:(function() {var _p='//diydeveloper.io/codesniffer/';var _i=function(s,cb) {var sc=document.createElement('script');sc.onload = function() {sc.onload = null;sc.onreadystatechange = null;cb.call(this);};sc.onreadystatechange = function(){if(/^(complete|loaded)$/.test(this.readyState) === true){sc.onreadystatechange = null;sc.onload();}};sc.src=s;if (document.head) {document.head.appendChild(sc);} else {document.getElementsByTagName('head')[0].appendChild(sc);}}; var options={path:_p};_i(_p+'HTMLCS.js',function(){HTMLCSAuditor.run('WCAG2AA',null,options);});})();">
+      <span id="bookmark">Code Sniffer Experimental</span>
+    </a>
+  </div>
+  Drag this box to your bookmarks bar to get the bookmarklet.
+
+<h2>Changes</h2>
+<li />"All" button added on the issues list page, which will show a new window with a full report of all issues.
+
+<h2>Notes</h2>
+<li />This version will not work on SSL (HTTPS websites).
+<li />Github page for fork: <a href="https://github.com/dfrencham/HTML_CodeSniffer">https://github.com/dfrencham/HTML_CodeSniffer</a>
+</body>
+
+</html>

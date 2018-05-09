@@ -1,0 +1,72 @@
+<div class="post-meta">
+
+  {{ $baseUrl := .Site.BaseURL }}
+  {{ if isset .Params "topics" }}
+  {{ $count := len .Params.topics }}
+  {{ if gt $count 0 }}
+  <div>
+    <i class="fa fa-folder fa-fw"></i>
+    {{ range $k, $v := .Params.topics }}
+      <a class="post-taxonomy-topic" href="{{ $baseUrl }}topics/{{ . | urlize }}">{{ . }}</a>{{ if lt $k (sub $count 1) }}&nbsp;&#47;{{ end }}
+    {{ end }}
+  </div>
+  {{ end }}
+  {{ end }}
+
+  {{ if isset .Params "group" }}
+    {{ if eq .Params.group "diy" }}
+      {{ $.Scratch.Set "group" "DIY" }}
+      {{ $.Scratch.Set "class" "box-red" }}
+      {{ $.Scratch.Set "icon" "fa-wrench" }}
+    {{ else if eq .Params.group "tech" }} 
+      {{ $.Scratch.Set "group" "Tech" }}
+      {{ $.Scratch.Set "class" "box-blue" }}
+      {{ $.Scratch.Set "icon" "fa-laptop" }}
+    {{ else if eq .Params.group "3dprinting" }} 
+      {{ $.Scratch.Set "group" "3d Printing" }}
+      {{ $.Scratch.Set "class" "box-green" }}
+      {{ $.Scratch.Set "icon" "fa-cog" }}
+    {{ else }}
+      {{ $.Scratch.Set "group" "unknown" }}
+      {{ $.Scratch.Set "class" "box-yellow" }}
+      {{ $.Scratch.Set "icon" "question" }}
+    {{ end }}
+  {{ else }}
+    {{ $.Scratch.Set "group" "not set" }}
+    {{ $.Scratch.Set "class" "box-yellow" }}
+    {{ $.Scratch.Set "icon" "question" }}
+  {{ end }}
+  <div>
+      <!-- <div class="pure-u-1-5 group-left">
+          <p class="category-pill">
+              <i class="fa {{ $.Scratch.Get "icon" }}" aria-hidden="true"></i>{{ $.Scratch.Get "group" }}
+          </p>
+      </div> -->
+      <div style="float: left">
+        <p>
+            <time>{{ with .Site.Params.dateFormat }}{{ $.Date.Format . }}{{ else }}{{ .Date.Format "02 Jan 2006, 15:04" }}{{ end }}</time><br />
+            <a class="btn btn-social-icon btn-twitter" href="http://twitter.com/share?url={{ .Permalink }}&amp;text={{ .Title }}&amp;via=dfrencham"><i class="fa fa-twitter"></i></a>
+            <a class="btn btn-social-icon btn-facebook" href="http://www.facebook.com/sharer.php?u={{ .Permalink }}&amp;t={{ .Title }}"><i class="fa fa-facebook"></i></a>
+            <a class="btn btn-social-icon btn-google-plus" href="https://plus.google.com/share?url={{ .Permalink }}"><i class="fa fa-google-plus"></i></a>
+            <a class="btn btn-social-icon btn-linkedin" href="http://www.linkedin.com/shareArticle?url={{ .Permalink }}"><i class="fa fa-linkedin"></i></a>      
+        </p>
+     </div>      
+      <div style="float: right">
+          {{ if isset .Params "tags" }}
+          <p>
+          {{ $count := len .Params.tags }}
+          {{ if gt $count 0 }}
+          {{ range $k, $v := .Params.tags }}
+            <span class="taxonomy-tag">             
+                <i class="fa fa-tags fa-fw"></i>            
+                <a class="post-taxonomy-tag" href="{{ $baseUrl }}tags/{{ . | urlize }}">{{ . }}</a>
+            </span>
+          {{ end }}
+          {{ end }}
+          </p>
+          {{ end }}
+      </div>
+      <div style="clear:both;"></div>
+  </div>
+
+</div>

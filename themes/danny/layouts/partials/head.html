@@ -1,0 +1,86 @@
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ if .IsNode }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ else }}{{ with .Description }}{{ . }}{{ end }}{{ end }}">
+  {{.Hugo.Generator}}
+
+  <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
+
+  <!-- CSS -->
+  {{ $purecss := "https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/" }}
+  <link rel="stylesheet" href="{{ $purecss }}pure-min.css">
+
+  {{ "<!--[if lte IE 8]>" | safeHTML }}
+  <link rel="stylesheet" href="{{ $purecss }}grids-responsive-old-ie-min.css">
+  {{ "<![endif]-->" | safeHTML }}
+  {{ "<!--[if gt IE 8]><!-->" | safeHTML }}
+  <link rel="stylesheet" href="{{ $purecss }}grids-responsive-min.css">
+  {{ "<!--<![endif]-->" | safeHTML }}
+
+  {{ "<!--[if lte IE 8]>" | safeHTML }}
+  <link rel="stylesheet" href="/css/side-menu-old-ie.css">
+  {{ "<![endif]-->" | safeHTML }}
+  {{ "<!--[if gt IE 8]><!-->" | safeHTML }}
+  <link rel="stylesheet" href="/css/side-menu.css">
+  {{ "<!--<![endif]-->" | safeHTML }}
+
+  <link rel="stylesheet" href="/css/blog.css">
+  <link rel="stylesheet" href="/css/bootstrap-social.css">
+
+  <!-- Icons -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700" rel="stylesheet" type="text/css">
+
+  <!-- RSS -->
+  {{ if .RSSLink }}
+  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ .RSSLink }}" />
+  {{ end }}
+
+  {{ with .Site.Params.highlightjs }}
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/{{ . }}.min.css">
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  {{ range $.Site.Params.highlightjs_extra_languages }}
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/{{ . }}.min.js"></script>
+  {{ end }}
+  <script>hljs.initHighlightingOnLoad();</script>
+  {{ end }}
+
+  {{ partial "favicon.html" . }}
+
+  {{ range .Site.Params.custom_css }}
+    <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
+  {{ end }}
+  {{ range .Site.Params.custom_js }}
+    <script src="{{ $.Site.BaseURL }}{{ . }}"></script>
+  {{ end }}
+
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,700i,900,900i|Fira+Sans:400,400i,700,700i,900,900i|Quicksand:300,400,500,700" rel="stylesheet" />
+  <link href="{{ $.Site.BaseURL  }}css/prism.css" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src='{{ $.Site.BaseURL  }}js/prism.js' type='text/javascript'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/stackblur-canvas/1.4.0/stackblur.min.js' type='text/javascript'></script>
+
+
+  <!-- fancyBox -->
+  <link rel="stylesheet" href="{{ $.Site.BaseURL  }}css/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+  <script type="text/javascript" src="{{ $.Site.BaseURL  }}js/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+  <script type='text/javascript'>
+   $(document).ready(function() {
+      $(".fancybox").fancybox({
+      helpers : {
+          title: {
+              type: 'inside',
+              position: 'top'
+          }
+      },
+      nextEffect: 'fade',
+      prevEffect: 'fade'});
+   });
+  </script>
+
+</head>
