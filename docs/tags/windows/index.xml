@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on DIYDeveloper.io</title>
+    <link>http://example.org/tags/windows/</link>
+    <description>Recent content in Windows on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 May 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Upgrade Windows 8 to Windows 10</title>
+      <link>http://example.org/tech/2015/05/13/upgrading-windows-81-to-windows-10/</link>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/05/13/upgrading-windows-81-to-windows-10/</guid>
+      <description>&lt;p&gt;The Windows 10 consumer preview is here! If you&amp;rsquo;re already running Windows 8, the upgrade is simple. If you have a spare couple of hours and would like to run a slightly-buggy pre-release operating system - you&amp;rsquo;re in luck. Here is how you do it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

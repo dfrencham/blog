@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogging on DIYDeveloper.io</title>
+    <link>http://example.org/tags/blogging/</link>
+    <description>Recent content in Blogging on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Help - my Jekyll blog assets are broken!</title>
+      <link>http://example.org/tech/2016/03/11/my-jekyll-assets-are-broken/</link>
+      <pubDate>Fri, 11 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2016/03/11/my-jekyll-assets-are-broken/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;ve just pushed a post to your github pages blog and discovered your css and scripts are all broken, don&amp;rsquo;t worry! It&amp;rsquo;s a Jekyll issue.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Create a tag cloud using Jekyll</title>
+      <link>http://example.org/tech/2014/03/09/create-a-tag-cloud-in-jekyll/</link>
+      <pubDate>Sun, 09 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/03/09/create-a-tag-cloud-in-jekyll/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently switched from Blogger to Github pages, and I&amp;rsquo;m using the very cool Jekyll app to manage my blog posts. For those that don&amp;rsquo;t know, Jekyll allows you to end your blog pages locally using Markup syntax, then it translates your post to HTML. From there, you commit it to a git repository.&lt;/p&gt;
+
+&lt;p&gt;One feature missing from Jekyll is Word Clouds. I will show you how to add one.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t switch to Ghost blogging platform (yet)</title>
+      <link>http://example.org/tech/2014/01/30/dont-switch-to-ghost-blogging-platform-yet/</link>
+      <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/01/30/dont-switch-to-ghost-blogging-platform-yet/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a typical developer. I often can&amp;rsquo;t resist the urge to try different platforms. My current blogging platform (blogger) has numerous limitations. I started looking for alternatives, and Ghost appeared on the radar.&lt;/p&gt;
+
+&lt;p&gt;Ghost is a ground up blogging platform, being developed under the premise that other platforms (such as word press) are becoming overly complex.&lt;/p&gt;
+
+&lt;p&gt;Before I go into too much detail, I should point out that Ghost is beta (maybe even alpha software).
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Linking to Google Drive images from your Blog</title>
+      <link>http://example.org/tech/2014/01/22/linking-to-google-drive-images-from-your-blog/</link>
+      <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/01/22/linking-to-google-drive-images-from-your-blog/</guid>
+      <description>&lt;p&gt;A good number of us have content stored on google drive. Wouldn&amp;rsquo;t it be handy if we could reference that content in our blog posts? Good news, you can!&lt;/p&gt;
+
+&lt;h2&gt;Steps&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Go to your google drive account.&lt;/li&gt;
+&lt;li&gt;Ensure the folder the item is in, is shared (use the option &lt;i&gt;Anyone who has the link can view&lt;/i&gt;).&lt;/li&gt;
+&lt;li&gt;Share the item (use the same option as above). Copy the &amp;ldquo;Link to Share&amp;rdquo; link.&lt;/li&gt;
+&lt;li&gt;Paste the link in the linkifier below&lt;/li&gt;
+&lt;li&gt;Copy the link produced, and insert it into your blog via any of your usual methods&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Setting up SyntaxHighligher on Blogger</title>
+      <link>http://example.org/tech/2013/12/16/setting-up-syntaxhighligher-on-blogger/</link>
+      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2013/12/16/setting-up-syntaxhighligher-on-blogger/</guid>
+      <description>&lt;p&gt;As a technical blogger, one of my first questions was: &lt;blockquote&gt;how do I add syntax highlighting to my blog?&lt;/blockquote&gt; I discovered  &lt;a href=&#34;http://alexgorbatchev.com/SyntaxHighlighter/&#34;&gt;Syntax Highlighter&lt;/a&gt;.
+Syntax Highlighter is a fantastic tool. It looks good, it is easy to set up, and it supports a large number of languages.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on DIYDeveloper.io</title>
+    <link>http://example.org/tags/css/</link>
+    <description>Recent content in Css on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first few hours with Visual Studio Code</title>
+      <link>http://example.org/tech/2015/04/30/microsoft-code/</link>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/04/30/microsoft-code/</guid>
+      <description>&lt;p&gt;Microsoft have released a new editor. This is Microsoft&amp;rsquo;s take on Sublime/Atom. It looks nice, it feels fast, and it can run on OSX or Linux (as well as Windows). I&amp;rsquo;ve been using it for work this morning - here are my impressions.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Accidental NPM Packaging (and JSPM!)</title>
+      <link>http://example.org/tech/2015/04/27/accidental-npm/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/04/27/accidental-npm/</guid>
+      <description>&lt;p&gt;Last week I created a package - an NPM. I didn&amp;rsquo;t &lt;em&gt;intend&lt;/em&gt; to. I just wanted to use the Microsoft Signal-R javascript client, and I was surprised to see it wasn&amp;rsquo;t listed in the Node package repository.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Animating Aurelia</title>
+      <link>http://example.org/tech/2015/04/21/animating-aurelia/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/04/21/animating-aurelia/</guid>
+      <description>&lt;p&gt;Have you heard of Aurelia? It&amp;rsquo;s Rob Eisenberg&amp;rsquo;s new framework. If you travelled forward in time two years and wrote a framework based on cutting edge tech, Aurelia would be the result. Aurelia is built on technology so new that the standards haven&amp;rsquo;t been ratified yet. I&amp;rsquo;m talking ES6, ES7, transpiling, a proper module loader, lambda expressions (arrow functions), computed properties, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;pure-img blog-img &#34; src=&#34;http://example.org/images/aurelia-logo.png&#34; alt=&#34;Aurelia&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now let&amp;rsquo;s use this massively powerful framework to animate a few boxes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yes, the doc-type is still important</title>
+      <link>http://example.org/diy/2014/09/19/the-doctype-is-still-important/</link>
+      <pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/09/19/the-doctype-is-still-important/</guid>
+      <description>&lt;p&gt;or&amp;hellip; &amp;ldquo;why don&amp;rsquo;t my before/after pseudo elements work in IE8?&amp;rdquo;. It may be 2014, but doc types still matter.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quick mobile optimisation for your blog</title>
+      <link>http://example.org/tech/2014/07/29/mobile-optimisation-for-your-blog/</link>
+      <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/07/29/mobile-optimisation-for-your-blog/</guid>
+      <description>&lt;p&gt;Here are some quick changes to make your blog (or other site) more readable on mobile devices. TLDR: viewport and mediaqueries.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

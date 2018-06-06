@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plumbing on DIYDeveloper.io</title>
+    <link>http://example.org/tags/plumbing/</link>
+    <description>Recent content in Plumbing on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/plumbing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Replacing a toilet cistern</title>
+      <link>http://example.org/diy/2014/04/22/replacing-a-toilet-cistern/</link>
+      <pubDate>Tue, 22 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/04/22/replacing-a-toilet-cistern/</guid>
+      <description>&lt;p&gt;Have you ever seen just how curious a 4 year old can be? My 4 year old wondered what was under the impossible-to-replace vitreous china Cistern lid. As a result, I needed a new cistern lid (my 4 year old survived unscathed).&lt;/p&gt;
+
+&lt;p&gt;Turns out that you can&amp;rsquo;t buy a Cistern lid in Brisbane, so read on and learn how to replace the entire toilet cistern&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Installing a new bathroom basin</title>
+      <link>http://example.org/diy/2014/04/16/installing-a-new-bathroom-basin/</link>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/04/16/installing-a-new-bathroom-basin/</guid>
+      <description>&lt;p&gt;When I moved into my house 2 years ago, it had one glaring problem&amp;hellip;. a strip of rust around the front of the bathroom basin. Because I&amp;rsquo;m not the best at prioritising things (and there happened to be some great sales on Steam, and I have 2 young kids, etc etc), my solution was to put a piece of white duct tape over it for 2 years and get on with my life.&lt;/p&gt;
+
+&lt;p&gt;I happened to impulse buy a sink a few weeks ago (I had the old sink measurements saved on my phone!), I decided to have a go at installing it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Replacing a shower head</title>
+      <link>http://example.org/diy/2014/03/30/replacing-a-shower-head/</link>
+      <pubDate>Sun, 30 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/03/30/replacing-a-shower-head/</guid>
+      <description>&lt;p&gt;A bad shower head is more annoying than you might think. It&amp;rsquo;s something we use every day, but it amazes me how many people will put up with a rubbish shower head for years. You wouldn&amp;rsquo;t put up with a crappy text editor for that long, would you?&lt;/p&gt;
+
+&lt;p&gt;It takes 10 minutes to replace, so lets get started!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

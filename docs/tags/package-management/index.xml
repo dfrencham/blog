@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Package Management on DIYDeveloper.io</title>
+    <link>http://example.org/tags/package-management/</link>
+    <description>Recent content in Package Management on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 May 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/package-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chocolatey - Package Management for Windows</title>
+      <link>http://example.org/tech/2014/05/26/chocolatey-package-manager/</link>
+      <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/05/26/chocolatey-package-manager/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s finally a package manager for Windows in the same style as Apt-Get, and it is surprisingly good. Lets get &lt;a href=&#34;https://chocolatey.org/&#34;&gt;Chocolatey&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dbrand on DIYDeveloper.io</title>
+    <link>http://example.org/tags/dbrand/</link>
+    <description>Recent content in Dbrand on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 May 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/dbrand/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dbrand Phone Skin Review</title>
+      <link>http://example.org/tech/2014/05/09/dbrand-skin-review/</link>
+      <pubDate>Fri, 09 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/05/09/dbrand-skin-review/</guid>
+      <description>&lt;p&gt;Someone at LG needs to be slapped, and I know who. It&amp;rsquo;s Bob - in Product Design. &amp;ldquo;I&amp;rsquo;ve got an idea!&amp;rdquo;, exclaimed Bob. &amp;ldquo;How about we give the Nexus4 a glass back!&amp;rdquo;. In an ideal world he would have been beaten to death by his co-workers - but he wasn&amp;rsquo;t&amp;hellip; so I have a Nexus 4, it&amp;rsquo;s broken&amp;hellip; and here we are.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m too cheap/lazy to fix a cracked Nexus4 back, so I decided to try a DBrand skin. On to the review&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

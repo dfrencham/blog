@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ikea on DIYDeveloper.io</title>
+    <link>http://example.org/tags/ikea/</link>
+    <description>Recent content in Ikea on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/ikea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ikea Kitchen Part 2: Extract and Install</title>
+      <link>http://example.org/diy/2015/03/31/installing-an-ikea-kitchen/</link>
+      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2015/03/31/installing-an-ikea-kitchen/</guid>
+      <description>&lt;p&gt;Last year I installed an Ikea Kitchen. I posted about the joy of the Ikea ordering process, installed the kitchen, and forgot to post the installation process. Well, here it is. If you&amp;rsquo;ve ever wondered how to install your own kitchen, wonder no more. I&amp;rsquo;ll walk you through installing an Ikea kitchen.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ordering an Ikea Kitchen is as much fun as riding a cheese grater</title>
+      <link>http://example.org/diy/2014/10/01/ordering-an-ikea-kitchen/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/10/01/ordering-an-ikea-kitchen/</guid>
+      <description>&lt;p&gt;Look at your tired old kitchen. Do you need to replace it? Look at all those happy people with new Ikea kitchens on the Internet.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

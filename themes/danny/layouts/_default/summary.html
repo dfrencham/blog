@@ -1,7 +1,8 @@
 <article class="post">
   <header>
-    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
 
+    {{ .Scratch.Set "isFrontPage" "true" }}
     {{ partial "post_meta.html" . }}
 
   </header>

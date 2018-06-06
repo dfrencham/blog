@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on DIYDeveloper.io</title>
+    <link>http://example.org/tags/programming/</link>
+    <description>Recent content in Programming on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Angular4 Startup Configuration Stupidity</title>
+      <link>http://example.org/tech/2017/11/01/angular4-startup-configuration-stupidity/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2017/11/01/angular4-startup-configuration-stupidity/</guid>
+      <description>&lt;p&gt;Lets look at 2 ways to read your run time configuration with Angular 4.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Help - my Jekyll blog assets are broken!</title>
+      <link>http://example.org/tech/2016/03/11/my-jekyll-assets-are-broken/</link>
+      <pubDate>Fri, 11 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2016/03/11/my-jekyll-assets-are-broken/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;ve just pushed a post to your github pages blog and discovered your css and scripts are all broken, don&amp;rsquo;t worry! It&amp;rsquo;s a Jekyll issue.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Calling pcap from Swift (using a closure)</title>
+      <link>http://example.org/tech/2015/11/27/swift-pcap/</link>
+      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/11/27/swift-pcap/</guid>
+      <description>&lt;p&gt;Swift is Apple&amp;rsquo;s clever new language. It is designed to be intuitive, modern, and read-able. Which it is, until you want to make a call to a C library - such as pcap.h.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nestable knockout web components</title>
+      <link>http://example.org/tech/2015/08/10/knockout-web-components/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/08/10/knockout-web-components/</guid>
+      <description>&lt;p&gt;Web Components are the Next-Big-Thing&amp;trade;, the second-coming, etc etc etc. Yeah, so we&amp;rsquo;ve all been hearing about web components. How can we use them in a nestable, compatible way?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Finding a javascript performance gremlin</title>
+      <link>http://example.org/tech/2015/05/30/finding-a-javascript-performance-gremlin/</link>
+      <pubDate>Sat, 30 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/05/30/finding-a-javascript-performance-gremlin/</guid>
+      <description>&lt;p&gt;Performance issues in a JS app can be frustrating&amp;hellip; especially when your app is convoluted soup of data-bound observables. Today I discovered a performance gremlin. I&amp;rsquo;ll walk you through the process of finding it and rectifying it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My first few hours with Visual Studio Code</title>
+      <link>http://example.org/tech/2015/04/30/microsoft-code/</link>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/04/30/microsoft-code/</guid>
+      <description>&lt;p&gt;Microsoft have released a new editor. This is Microsoft&amp;rsquo;s take on Sublime/Atom. It looks nice, it feels fast, and it can run on OSX or Linux (as well as Windows). I&amp;rsquo;ve been using it for work this morning - here are my impressions.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Accidental NPM Packaging (and JSPM!)</title>
+      <link>http://example.org/tech/2015/04/27/accidental-npm/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/04/27/accidental-npm/</guid>
+      <description>&lt;p&gt;Last week I created a package - an NPM. I didn&amp;rsquo;t &lt;em&gt;intend&lt;/em&gt; to. I just wanted to use the Microsoft Signal-R javascript client, and I was surprised to see it wasn&amp;rsquo;t listed in the Node package repository.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Animating Aurelia</title>
+      <link>http://example.org/tech/2015/04/21/animating-aurelia/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/04/21/animating-aurelia/</guid>
+      <description>&lt;p&gt;Have you heard of Aurelia? It&amp;rsquo;s Rob Eisenberg&amp;rsquo;s new framework. If you travelled forward in time two years and wrote a framework based on cutting edge tech, Aurelia would be the result. Aurelia is built on technology so new that the standards haven&amp;rsquo;t been ratified yet. I&amp;rsquo;m talking ES6, ES7, transpiling, a proper module loader, lambda expressions (arrow functions), computed properties, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;pure-img blog-img &#34; src=&#34;http://example.org/images/aurelia-logo.png&#34; alt=&#34;Aurelia&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now let&amp;rsquo;s use this massively powerful framework to animate a few boxes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>3 Awesome New C# Features</title>
+      <link>http://example.org/tech/2014/12/15/csharp6-new-features/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/12/15/csharp6-new-features/</guid>
+      <description>&lt;p&gt;A new version of C# is on the way. Here are 3 new features to make your life easier.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SPA within a SPA? Durandal child routers</title>
+      <link>http://example.org/tech/2014/10/15/durandal-child-routers/</link>
+      <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/10/15/durandal-child-routers/</guid>
+      <description>&lt;p&gt;My current project had an interesting requirement come through: &amp;ldquo;We want the app to navigate to another single page app when the user clicks next on this page, but still have our widgets at the top&amp;rdquo;. The client wanted to utilise an existing durandal SPA inside a new durandal spa.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yes, the doc-type is still important</title>
+      <link>http://example.org/diy/2014/09/19/the-doctype-is-still-important/</link>
+      <pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/09/19/the-doctype-is-still-important/</guid>
+      <description>&lt;p&gt;or&amp;hellip; &amp;ldquo;why don&amp;rsquo;t my before/after pseudo elements work in IE8?&amp;rdquo;. It may be 2014, but doc types still matter.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quick mobile optimisation for your blog</title>
+      <link>http://example.org/tech/2014/07/29/mobile-optimisation-for-your-blog/</link>
+      <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/07/29/mobile-optimisation-for-your-blog/</guid>
+      <description>&lt;p&gt;Here are some quick changes to make your blog (or other site) more readable on mobile devices. TLDR: viewport and mediaqueries.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Get Angular Running in 5 minutes </title>
+      <link>http://example.org/tech/2014/06/20/angular-in-5-minutes/</link>
+      <pubDate>Fri, 20 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/06/20/angular-in-5-minutes/</guid>
+      <description>&lt;p&gt;Want to try some &lt;a href=&#34;https://angularjs.org/&#34;&gt;Angular&lt;/a&gt; development? Need to get a dev environment set up? With a couple of automation tools, I&amp;rsquo;ll have you up and going in 5 minutes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Developing for Screen Readers is a special kind of hell</title>
+      <link>http://example.org/tech/2014/04/10/developing-for-screen-readers-is-a-special-kind-of-hell/</link>
+      <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/04/10/developing-for-screen-readers-is-a-special-kind-of-hell/</guid>
+      <description>&lt;p&gt;Picture the scenario&amp;hellip;. your manager asks you add support for assistive technologies to your shiny new SPA (Single-Page-App is a development pattern that can be roughly described as a highly responsive javascript explosion). Your client wants to implement the W3C-AA Accessibility Standard.&lt;/p&gt;
+
+&lt;p&gt;You are going to pull out your IDE, make a few tweaks to the app, and the screen reader will happily read your web application out to appreciative users.&lt;/p&gt;
+
+&lt;p&gt;After adding a few ARIA tags, you fire up a screen reader&amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Every developer should learn regex</title>
+      <link>http://example.org/diy/2014/04/04/every-developer-should-learn-regex/</link>
+      <pubDate>Fri, 04 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/04/04/every-developer-should-learn-regex/</guid>
+      <description>&lt;p&gt;Being able to write Regex (otherwise known as Regular Expressions) is a skill every developer should learn. You can use Regex to find very specific text strings, to reformat files, and to do very specific replacements.&lt;/p&gt;
+
+&lt;p&gt;When combined with a good text editor, &lt;a class=&#34;fancybox&#34; href=&#34;http://imgs.xkcd.com/comics/regular_expressions.png&#34;&gt;you are unstoppable&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Create a tag cloud using Jekyll</title>
+      <link>http://example.org/tech/2014/03/09/create-a-tag-cloud-in-jekyll/</link>
+      <pubDate>Sun, 09 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/03/09/create-a-tag-cloud-in-jekyll/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently switched from Blogger to Github pages, and I&amp;rsquo;m using the very cool Jekyll app to manage my blog posts. For those that don&amp;rsquo;t know, Jekyll allows you to end your blog pages locally using Markup syntax, then it translates your post to HTML. From there, you commit it to a git repository.&lt;/p&gt;
+
+&lt;p&gt;One feature missing from Jekyll is Word Clouds. I will show you how to add one.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Create a Single Page App in 2 Minutes using Ember App Kit</title>
+      <link>http://example.org/tech/2014/03/04/create-a-single-page-app-in-2-minutes-using-ember-app-kit/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/03/04/create-a-single-page-app-in-2-minutes-using-ember-app-kit/</guid>
+      <description>&lt;p&gt;Single Pages Apps (SPAs) are the current flavour of the month. They have seemingly appeared from nowhere, but now it seems like every developer is talking about them. Wikipedia describes this pattern as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A single-page application (SPA), also known as single-page interface (SPI), is a web application or web site that fits on a single web page with the goal of providing a more fluid user experience akin to a desktop application.
+In a SPA, either all necessary code – HTML, JavaScript, and CSS – is retrieved with a single page load, or the appropriate resources are dynamically loaded and added to the page as necessary, usually in response to user actions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In my experience they offer some advantages over traditional apps:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Very responsive&lt;/li&gt;
+&lt;li&gt;Rapid development time&lt;/li&gt;
+&lt;li&gt;Data is usually provided via a REST API - making integration to other systems easy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;along with some disadvantages:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Usually implemented with javascript (with all baggage it brings, such as horrendous function passing syntax everywhere)&lt;/li&gt;
+&lt;li&gt;Can be harder to debug - you can end up in dependency hell&lt;/li&gt;
+&lt;li&gt;Common tasks such as continuous integration is harder than with more mature patterns such as MVC (example: making javascript unit tests play nice with TFS).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The high responsiveness alone makes SPAs worth of investigating. Responsive web apps == happy users!&lt;/p&gt;
+
+&lt;p&gt;Now I&amp;rsquo;m going to show you how to build one.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fix Visual Studio taking a long time to load debug symbols</title>
+      <link>http://example.org/tech/2014/02/06/fix-visual-studio-taking-a-long-time-to-load-debug-symbols/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/02/06/fix-visual-studio-taking-a-long-time-to-load-debug-symbols/</guid>
+      <description>I lost a good couple of hours tracking this one down. If Visual Studio is taking a very long time to load debug symbols when debugging (think 5 minutes to 30 minutes), try this&amp;hellip;
+Delete all break points (Debug - &amp;gt; Delete All Break Points).
+Sometimes something small like this can be a lot more frustrating than a big issue. Hopefully this saves someone from going crazy.</description>
+    </item>
+    
+  </channel>
+</rss>

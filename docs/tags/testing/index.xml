@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on DIYDeveloper.io</title>
+    <link>http://example.org/tags/testing/</link>
+    <description>Recent content in Testing on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Auto mocking with AutoMoq</title>
+      <link>http://example.org/tech/2013/12/18/auto-mocking-with-automoq/</link>
+      <pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2013/12/18/auto-mocking-with-automoq/</guid>
+      <description>&lt;p&gt;AutoMoq is a nice little package I came across today. The AutoMoq home page describes it as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;AutoMoq is an &amp;quot;auto-mocking&amp;quot; container that creates objects for you. Just tell it what class to create and it will create it.&lt;/blockquote&gt;
+
+&lt;p&gt;Why is this useful? Consider the following scenario. We have a BananaCakeFactory class, that relies on a Banana Repository.
+
+Here is the constructor:&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

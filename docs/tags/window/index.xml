@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Window on DIYDeveloper.io</title>
+    <link>http://example.org/tags/window/</link>
+    <description>Recent content in Window on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/window/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to replace glass door rollers</title>
+      <link>http://example.org/diy/2015/05/26/how-to-replace-glass-door-rollers/</link>
+      <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2015/05/26/how-to-replace-glass-door-rollers/</guid>
+      <description>&lt;p&gt;Don&amp;rsquo;t let a scraping, dragging door ruin your day. Let&amp;rsquo;s replace the rollers!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

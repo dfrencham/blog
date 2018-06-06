@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on DIYDeveloper.io</title>
+    <link>http://example.org/tags/development/</link>
+    <description>Recent content in Development on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Don&#39;t switch to Ghost blogging platform (yet)</title>
+      <link>http://example.org/tech/2014/01/30/dont-switch-to-ghost-blogging-platform-yet/</link>
+      <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/01/30/dont-switch-to-ghost-blogging-platform-yet/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a typical developer. I often can&amp;rsquo;t resist the urge to try different platforms. My current blogging platform (blogger) has numerous limitations. I started looking for alternatives, and Ghost appeared on the radar.&lt;/p&gt;
+
+&lt;p&gt;Ghost is a ground up blogging platform, being developed under the premise that other platforms (such as word press) are becoming overly complex.&lt;/p&gt;
+
+&lt;p&gt;Before I go into too much detail, I should point out that Ghost is beta (maybe even alpha software).
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Linking to Google Drive images from your Blog</title>
+      <link>http://example.org/tech/2014/01/22/linking-to-google-drive-images-from-your-blog/</link>
+      <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/01/22/linking-to-google-drive-images-from-your-blog/</guid>
+      <description>&lt;p&gt;A good number of us have content stored on google drive. Wouldn&amp;rsquo;t it be handy if we could reference that content in our blog posts? Good news, you can!&lt;/p&gt;
+
+&lt;h2&gt;Steps&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Go to your google drive account.&lt;/li&gt;
+&lt;li&gt;Ensure the folder the item is in, is shared (use the option &lt;i&gt;Anyone who has the link can view&lt;/i&gt;).&lt;/li&gt;
+&lt;li&gt;Share the item (use the same option as above). Copy the &amp;ldquo;Link to Share&amp;rdquo; link.&lt;/li&gt;
+&lt;li&gt;Paste the link in the linkifier below&lt;/li&gt;
+&lt;li&gt;Copy the link produced, and insert it into your blog via any of your usual methods&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Entity Tags (Etags)... what they are and why they rock</title>
+      <link>http://example.org/tech/2014/01/14/entity-tags-etags-what-they-are-and-why-they-rock/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/01/14/entity-tags-etags-what-they-are-and-why-they-rock/</guid>
+      <description>Last week, a coworker asked me a question about Etags. I&amp;rsquo;d never heard of of Etags - in spite of them being around since 1999!
+  In a nutshell, an etag is an identifier assigned to a specific version of a hosted object by a webserver - for the purposes of caching.
+  Etags operate as follows:
+ A client sends a HTTP request for an object. The server returns the object to the client, along with the ETag value (as an Etag field, eg: ETag: &amp;ldquo;686897696a7c876b7e&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>Auto mocking with AutoMoq</title>
+      <link>http://example.org/tech/2013/12/18/auto-mocking-with-automoq/</link>
+      <pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2013/12/18/auto-mocking-with-automoq/</guid>
+      <description>&lt;p&gt;AutoMoq is a nice little package I came across today. The AutoMoq home page describes it as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;AutoMoq is an &amp;quot;auto-mocking&amp;quot; container that creates objects for you. Just tell it what class to create and it will create it.&lt;/blockquote&gt;
+
+&lt;p&gt;Why is this useful? Consider the following scenario. We have a BananaCakeFactory class, that relies on a Banana Repository.
+
+Here is the constructor:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Setting up SyntaxHighligher on Blogger</title>
+      <link>http://example.org/tech/2013/12/16/setting-up-syntaxhighligher-on-blogger/</link>
+      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2013/12/16/setting-up-syntaxhighligher-on-blogger/</guid>
+      <description>&lt;p&gt;As a technical blogger, one of my first questions was: &lt;blockquote&gt;how do I add syntax highlighting to my blog?&lt;/blockquote&gt; I discovered  &lt;a href=&#34;http://alexgorbatchev.com/SyntaxHighlighter/&#34;&gt;Syntax Highlighter&lt;/a&gt;.
+Syntax Highlighter is a fantastic tool. It looks good, it is easy to set up, and it supports a large number of languages.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VS2013 Web Essentials   Zen Coding is a huge time saver for web developers</title>
+      <link>http://example.org/tech/2013/10/13/vs2013-web-essentials---zen-coding-is-a-huge-time-saver-for-web-developers/</link>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2013/10/13/vs2013-web-essentials---zen-coding-is-a-huge-time-saver-for-web-developers/</guid>
+      <description>&lt;p&gt;As a web developer, I have regularly found myself needing to type a large amount of HTML layout code. Your page starts to grow, and your eyes begin to glaze over as you type DIV after DIV.&lt;/p&gt;
+
+&lt;p&gt;Enter &lt;a href=&#34;https://code.google.com/p/zen-coding/&#34;&gt;Zen Coding&lt;/a&gt;. In a nutshell, ZenCoding is a set of editor extensions, allowing a developer to use shorthand for common tasks. Microsoft have incorporated these extensions into &lt;a href=&#34;http://visualstudiogallery.msdn.microsoft.com/56633663-6799-41d7-9df7-0f2a504ca361&#34;&gt;Web Essentials&lt;/a&gt; for Visual Studio 2013.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nested Dependencies in MVC4</title>
+      <link>http://example.org/tech/2013/07/18/nested-dependencies-in-mvc4/</link>
+      <pubDate>Thu, 18 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2013/07/18/nested-dependencies-in-mvc4/</guid>
+      <description>&lt;p&gt;Given how complex the average MVC4 application can become, it is likely that you are going to come across the situation where you build up a dependency chain. It may look like this: Controller -&amp;gt; Provider/Manager -&amp;gt; Dependency&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;A common scenario may be that your controller needs a Lookup Manager, and that manager needs a cached query passed in.&lt;/p&gt;
+
+&lt;p&gt;In this scenario, the Unity.Mvc4 nuGet package comes into play.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

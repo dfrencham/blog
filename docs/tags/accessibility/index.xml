@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accessibility on DIYDeveloper.io</title>
+    <link>http://example.org/tags/accessibility/</link>
+    <description>Recent content in Accessibility on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Developing for Screen Readers is a special kind of hell</title>
+      <link>http://example.org/tech/2014/04/10/developing-for-screen-readers-is-a-special-kind-of-hell/</link>
+      <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/04/10/developing-for-screen-readers-is-a-special-kind-of-hell/</guid>
+      <description>&lt;p&gt;Picture the scenario&amp;hellip;. your manager asks you add support for assistive technologies to your shiny new SPA (Single-Page-App is a development pattern that can be roughly described as a highly responsive javascript explosion). Your client wants to implement the W3C-AA Accessibility Standard.&lt;/p&gt;
+
+&lt;p&gt;You are going to pull out your IDE, make a few tweaks to the app, and the screen reader will happily read your web application out to appreciative users.&lt;/p&gt;
+
+&lt;p&gt;After adding a few ARIA tags, you fire up a screen reader&amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Belkin on DIYDeveloper.io</title>
+    <link>http://example.org/tags/belkin/</link>
+    <description>Recent content in Belkin on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/belkin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Belkin WeMo Light Switch Review</title>
+      <link>http://example.org/diy/2014/01/06/belkin-wemo-light-switch-review/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/01/06/belkin-wemo-light-switch-review/</guid>
+      <description>&lt;p&gt;I recently purchased a Belkin WeMo light switch. I&amp;rsquo;ve been eyeing these off for a while. The general premise is pretty cool. It is a IP enabled light switch, with Iphone/Android control.&lt;/p&gt;
+
+&lt;p&gt;Install was pretty easy. It was simply a matter of cutting a hole in the gyprock (plaster board), and running some wires to my existing switch. Belkin provided some twist-on electrical connectors, which made the job very easy. Note that this &lt;em&gt;will not&lt;/em&gt; use any sort of standard Australian wall plate - so it is not going to look like your Clipsal switches. It does fit into a standard plasterboard C-Clip, so that is nice.&lt;/p&gt;
+
+&lt;p&gt;Once running, it was fairly easy to setup. After installing the WeMo app, I connected my phone to a new Wifi access point provided by the WeMo switch. The WeMo app then prompted me to enter my existing WiFi network details. From there, the switch connected to my home network and performed a firmware update, and we were in business.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

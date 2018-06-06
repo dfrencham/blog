@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows 8 on DIYDeveloper.io</title>
+    <link>http://example.org/tags/windows-8/</link>
+    <description>Recent content in Windows 8 on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jun 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/windows-8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I Got Burned Today - Windows 8 Install</title>
+      <link>http://example.org/tech/2014/06/07/how-i-got-burned-win8/</link>
+      <pubDate>Sat, 07 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/06/07/how-i-got-burned-win8/</guid>
+      <description>&lt;p&gt;Windows 8 polarises people. I&amp;rsquo;ve never minded it. It performs well in spite of having a split personality. Shiny new SSD in hand, I attempted a clean install on my laptop. Windows 8 pushed me from my usual slightly agitated states towards a murderous rage.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

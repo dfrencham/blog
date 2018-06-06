@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caching on DIYDeveloper.io</title>
+    <link>http://example.org/tags/caching/</link>
+    <description>Recent content in Caching on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/caching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entity Tags (Etags)... what they are and why they rock</title>
+      <link>http://example.org/tech/2014/01/14/entity-tags-etags-what-they-are-and-why-they-rock/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/01/14/entity-tags-etags-what-they-are-and-why-they-rock/</guid>
+      <description>Last week, a coworker asked me a question about Etags. I&amp;rsquo;d never heard of of Etags - in spite of them being around since 1999!
+  In a nutshell, an etag is an identifier assigned to a specific version of a hosted object by a webserver - for the purposes of caching.
+  Etags operate as follows:
+ A client sends a HTTP request for an object. The server returns the object to the client, along with the ETag value (as an Etag field, eg: ETag: &amp;ldquo;686897696a7c876b7e&amp;rdquo;).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,6 +2,7 @@
 categories:
 - tech
 group: "tech"
+draft: true
 date: 2016-03-11T00:00:00Z
 tags:
 - blogging

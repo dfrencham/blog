@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Review on DIYDeveloper.io</title>
+    <link>http://example.org/tags/review/</link>
+    <description>Recent content in Review on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Review - Macbook Pro 13&#34; (with ForceTouch)</title>
+      <link>http://example.org/tech/2015/07/31/macbook-pro-review/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/07/31/macbook-pro-review/</guid>
+      <description>&lt;p&gt;Here is my review of the Macbook Pro 13&amp;ldquo; - with ForceTouch.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chrome Cast (Australian) Review</title>
+      <link>http://example.org/tech/2014/06/01/chromecast-review/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/06/01/chromecast-review/</guid>
+      <description>&lt;p&gt;In July 2013, Google released the ChromeCast in the US. This allowed Google to finally make the jump to the TV, and provide some competition for the AppleTV (and other media streamers).&lt;/p&gt;
+
+&lt;p&gt;After a long wait, the ChromeCast has finally launched in Australia. The Australia tax has raised the price from $35 to $50. Is it worthy of your hard earned dollars? Here&amp;rsquo;s the low down.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dbrand Phone Skin Review</title>
+      <link>http://example.org/tech/2014/05/09/dbrand-skin-review/</link>
+      <pubDate>Fri, 09 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/05/09/dbrand-skin-review/</guid>
+      <description>&lt;p&gt;Someone at LG needs to be slapped, and I know who. It&amp;rsquo;s Bob - in Product Design. &amp;ldquo;I&amp;rsquo;ve got an idea!&amp;rdquo;, exclaimed Bob. &amp;ldquo;How about we give the Nexus4 a glass back!&amp;rdquo;. In an ideal world he would have been beaten to death by his co-workers - but he wasn&amp;rsquo;t&amp;hellip; so I have a Nexus 4, it&amp;rsquo;s broken&amp;hellip; and here we are.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m too cheap/lazy to fix a cracked Nexus4 back, so I decided to try a DBrand skin. On to the review&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Aussie retailers could learn a thing or two from dollar shave club</title>
+      <link>http://example.org/tech/2014/04/14/aussie-retailers-could-learn-from-dollar-shave-club/</link>
+      <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/04/14/aussie-retailers-could-learn-from-dollar-shave-club/</guid>
+      <description>&lt;p&gt;A couple of weeks ago, something interesting popped up on my Facebook feed. It was a company called &amp;ldquo;Dollar Shave Club&amp;rdquo; offering razors direct to my door for $4 a month. How can a company afford to do that? Would the razors suck worse than Aldi razors?&lt;/p&gt;
+
+&lt;p&gt;The razors didn&amp;rsquo;t show up. I contacted the company. How they handled it shows why traditional retailers should be terrified.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Belkin WeMo Light Switch Review</title>
+      <link>http://example.org/diy/2014/01/06/belkin-wemo-light-switch-review/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/01/06/belkin-wemo-light-switch-review/</guid>
+      <description>&lt;p&gt;I recently purchased a Belkin WeMo light switch. I&amp;rsquo;ve been eyeing these off for a while. The general premise is pretty cool. It is a IP enabled light switch, with Iphone/Android control.&lt;/p&gt;
+
+&lt;p&gt;Install was pretty easy. It was simply a matter of cutting a hole in the gyprock (plaster board), and running some wires to my existing switch. Belkin provided some twist-on electrical connectors, which made the job very easy. Note that this &lt;em&gt;will not&lt;/em&gt; use any sort of standard Australian wall plate - so it is not going to look like your Clipsal switches. It does fit into a standard plasterboard C-Clip, so that is nice.&lt;/p&gt;
+
+&lt;p&gt;Once running, it was fairly easy to setup. After installing the WeMo app, I connected my phone to a new Wifi access point provided by the WeMo switch. The WeMo app then prompted me to enter my existing WiFi network details. From there, the switch connected to my home network and performed a firmware update, and we were in business.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

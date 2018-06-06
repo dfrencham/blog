@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html on DIYDeveloper.io</title>
+    <link>http://example.org/tags/html/</link>
+    <description>Recent content in Html on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yes, the doc-type is still important</title>
+      <link>http://example.org/diy/2014/09/19/the-doctype-is-still-important/</link>
+      <pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/09/19/the-doctype-is-still-important/</guid>
+      <description>&lt;p&gt;or&amp;hellip; &amp;ldquo;why don&amp;rsquo;t my before/after pseudo elements work in IE8?&amp;rdquo;. It may be 2014, but doc types still matter.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VS2013 Web Essentials   Zen Coding is a huge time saver for web developers</title>
+      <link>http://example.org/tech/2013/10/13/vs2013-web-essentials---zen-coding-is-a-huge-time-saver-for-web-developers/</link>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2013/10/13/vs2013-web-essentials---zen-coding-is-a-huge-time-saver-for-web-developers/</guid>
+      <description>&lt;p&gt;As a web developer, I have regularly found myself needing to type a large amount of HTML layout code. Your page starts to grow, and your eyes begin to glaze over as you type DIV after DIV.&lt;/p&gt;
+
+&lt;p&gt;Enter &lt;a href=&#34;https://code.google.com/p/zen-coding/&#34;&gt;Zen Coding&lt;/a&gt;. In a nutshell, ZenCoding is a set of editor extensions, allowing a developer to use shorthand for common tasks. Microsoft have incorporated these extensions into &lt;a href=&#34;http://visualstudiogallery.msdn.microsoft.com/56633663-6799-41d7-9df7-0f2a504ca361&#34;&gt;Web Essentials&lt;/a&gt; for Visual Studio 2013.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

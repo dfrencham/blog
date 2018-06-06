@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regex on DIYDeveloper.io</title>
+    <link>http://example.org/tags/regex/</link>
+    <description>Recent content in Regex on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/regex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Every developer should learn regex</title>
+      <link>http://example.org/diy/2014/04/04/every-developer-should-learn-regex/</link>
+      <pubDate>Fri, 04 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/04/04/every-developer-should-learn-regex/</guid>
+      <description>&lt;p&gt;Being able to write Regex (otherwise known as Regular Expressions) is a skill every developer should learn. You can use Regex to find very specific text strings, to reformat files, and to do very specific replacements.&lt;/p&gt;
+
+&lt;p&gt;When combined with a good text editor, &lt;a class=&#34;fancybox&#34; href=&#34;http://imgs.xkcd.com/comics/regular_expressions.png&#34;&gt;you are unstoppable&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

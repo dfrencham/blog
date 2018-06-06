@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Studio on DIYDeveloper.io</title>
+    <link>http://example.org/tags/visual-studio/</link>
+    <description>Recent content in Visual Studio on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Feb 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/visual-studio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fix Visual Studio taking a long time to load debug symbols</title>
+      <link>http://example.org/tech/2014/02/06/fix-visual-studio-taking-a-long-time-to-load-debug-symbols/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/02/06/fix-visual-studio-taking-a-long-time-to-load-debug-symbols/</guid>
+      <description>I lost a good couple of hours tracking this one down. If Visual Studio is taking a very long time to load debug symbols when debugging (think 5 minutes to 30 minutes), try this&amp;hellip;
+Delete all break points (Debug - &amp;gt; Delete All Break Points).
+Sometimes something small like this can be a lot more frustrating than a big issue. Hopefully this saves someone from going crazy.</description>
+    </item>
+    
+    <item>
+      <title>VS2013 Web Essentials   Zen Coding is a huge time saver for web developers</title>
+      <link>http://example.org/tech/2013/10/13/vs2013-web-essentials---zen-coding-is-a-huge-time-saver-for-web-developers/</link>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2013/10/13/vs2013-web-essentials---zen-coding-is-a-huge-time-saver-for-web-developers/</guid>
+      <description>&lt;p&gt;As a web developer, I have regularly found myself needing to type a large amount of HTML layout code. Your page starts to grow, and your eyes begin to glaze over as you type DIV after DIV.&lt;/p&gt;
+
+&lt;p&gt;Enter &lt;a href=&#34;https://code.google.com/p/zen-coding/&#34;&gt;Zen Coding&lt;/a&gt;. In a nutshell, ZenCoding is a set of editor extensions, allowing a developer to use shorthand for common tasks. Microsoft have incorporated these extensions into &lt;a href=&#34;http://visualstudiogallery.msdn.microsoft.com/56633663-6799-41d7-9df7-0f2a504ca361&#34;&gt;Web Essentials&lt;/a&gt; for Visual Studio 2013.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

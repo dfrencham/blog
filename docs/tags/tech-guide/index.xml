@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Guide on DIYDeveloper.io</title>
+    <link>http://example.org/tags/tech-guide/</link>
+    <description>Recent content in Tech Guide on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/tech-guide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Add Ethernet to your ChromeCast for 12 bucks</title>
+      <link>http://example.org/tech/2015/09/01/chromecast-ethernet/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/09/01/chromecast-ethernet/</guid>
+      <description>&lt;p&gt;ChromeCast&amp;rsquo;s are great&amp;hellip; as long as your wifi is. I upgraded my router firmware, and my ChromeCast started dropping out. Rather than fixing &lt;em&gt;that&lt;/em&gt; problem, I figured &amp;ldquo;why not just hardwire the damn thing?&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to Upgrade Windows 8 to Windows 10</title>
+      <link>http://example.org/tech/2015/05/13/upgrading-windows-81-to-windows-10/</link>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/05/13/upgrading-windows-81-to-windows-10/</guid>
+      <description>&lt;p&gt;The Windows 10 consumer preview is here! If you&amp;rsquo;re already running Windows 8, the upgrade is simple. If you have a spare couple of hours and would like to run a slightly-buggy pre-release operating system - you&amp;rsquo;re in luck. Here is how you do it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chromecast issues? Check your Multicast settings</title>
+      <link>http://example.org/tech/2014/06/12/check-your-multicast-settings/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/06/12/check-your-multicast-settings/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had network gremlins for a few months now. Sometimes my WeMo switches are visible, sometimes not. Chromecast is the same. My devices were screaming for attention, but my router wasn&amp;rsquo;t listening. Lets look at Multicasting (and Broadcasting).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How I Got Burned Today - Windows 8 Install</title>
+      <link>http://example.org/tech/2014/06/07/how-i-got-burned-win8/</link>
+      <pubDate>Sat, 07 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/06/07/how-i-got-burned-win8/</guid>
+      <description>&lt;p&gt;Windows 8 polarises people. I&amp;rsquo;ve never minded it. It performs well in spite of having a split personality. Shiny new SSD in hand, I attempted a clean install on my laptop. Windows 8 pushed me from my usual slightly agitated states towards a murderous rage.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chocolatey - Package Management for Windows</title>
+      <link>http://example.org/tech/2014/05/26/chocolatey-package-manager/</link>
+      <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/05/26/chocolatey-package-manager/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s finally a package manager for Windows in the same style as Apt-Get, and it is surprisingly good. Lets get &lt;a href=&#34;https://chocolatey.org/&#34;&gt;Chocolatey&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OCR Solar Meter Reader - Part 1</title>
+      <link>http://example.org/tech/2014/05/19/ocr-solar-meter-reader-part1/</link>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/05/19/ocr-solar-meter-reader-part1/</guid>
+      <description>&lt;p&gt;I had some solar panels installed last year. I wanted to read my inverter statistics, but I also wanted to log exactly how much power I import/export. Challenge - I can&amp;rsquo;t physically plug anything into the meter (power company regulations). What to do?&lt;/p&gt;
+
+&lt;p&gt;How about a web cam, raspberry pi, and OCR?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OCR Solar Meter Reader - Part 2</title>
+      <link>http://example.org/tech/2014/05/19/ocr-solar-meter-reader-part2/</link>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/05/19/ocr-solar-meter-reader-part2/</guid>
+      <description>&lt;p&gt;Continuation of Raspberry Pi Solar Data Logger article. In this part I detail the software side of the OCR solar data logger. Perl, APIs, C. Hooray!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Automatically post your blog to social media</title>
+      <link>http://example.org/tech/2014/04/24/automatically-post-your-blog-to-social-media/</link>
+      <pubDate>Thu, 24 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/04/24/automatically-post-your-blog-to-social-media/</guid>
+      <description>&lt;p&gt;A good friend of mine recently said &amp;ldquo;it&amp;rsquo;s a pity I can&amp;rsquo;t just automatically post my blog entries on social media&amp;rdquo;. Good news! You can - with one caveat&amp;hellip; you can everywhere except Google+.&lt;/p&gt;
+
+&lt;p&gt;If-That-Then-This (&lt;a href=&#34;http://ifttt.com&#34;&gt;IFTTT&lt;/a&gt;) is a fantastic (free!) integration tool. I&amp;rsquo;ll show you how to leverage it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/tech/2017/11/01/angular4-startup-configuration-stupidity/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2016/03/11/my-jekyll-assets-are-broken/</loc>
+    <lastmod>2016-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2016/01/18/a-trip-to-the-wreckers/</loc>
+    <lastmod>2016-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2015/11/27/swift-pcap/</loc>
+    <lastmod>2015-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2015/11/10/drills-drills-drills/</loc>
+    <lastmod>2015-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2015/09/01/chromecast-ethernet/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2015/08/19/replace-your-exhaust-fan/</loc>
+    <lastmod>2015-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2015/08/10/knockout-web-components/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2015/07/31/macbook-pro-review/</loc>
+    <lastmod>2015-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2015/07/12/how-to-plane-a-door/</loc>
+    <lastmod>2015-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2015/05/30/finding-a-javascript-performance-gremlin/</loc>
+    <lastmod>2015-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2015/05/26/how-to-replace-glass-door-rollers/</loc>
+    <lastmod>2015-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2015/05/13/upgrading-windows-81-to-windows-10/</loc>
+    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2015/04/30/microsoft-code/</loc>
+    <lastmod>2015-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2015/04/27/accidental-npm/</loc>
+    <lastmod>2015-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2015/04/21/animating-aurelia/</loc>
+    <lastmod>2015-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2015/03/31/installing-an-ikea-kitchen/</loc>
+    <lastmod>2015-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2015/02/07/floating-floors/</loc>
+    <lastmod>2015-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2015/01/08/childproofing-my-tv/</loc>
+    <lastmod>2015-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/12/15/csharp6-new-features/</loc>
+    <lastmod>2014-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/11/24/repair-drywall-surface/</loc>
+    <lastmod>2014-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/11/16/replace-a-skylight-dome/</loc>
+    <lastmod>2014-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/10/30/digital-death/</loc>
+    <lastmod>2014-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/10/17/removing-stubborn-wall-tiles/</loc>
+    <lastmod>2014-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/10/15/durandal-child-routers/</loc>
+    <lastmod>2014-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/10/01/ordering-an-ikea-kitchen/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/09/19/the-doctype-is-still-important/</loc>
+    <lastmod>2014-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/09/09/Concrete-Grinding-for-dummies/</loc>
+    <lastmod>2014-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/08/27/removing-tiles/</loc>
+    <lastmod>2014-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/08/08/using-wall-anchors/</loc>
+    <lastmod>2014-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/07/29/mobile-optimisation-for-your-blog/</loc>
+    <lastmod>2014-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/07/19/family-vs-tech/</loc>
+    <lastmod>2014-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/07/07/replace-your-nexus4-screen/</loc>
+    <lastmod>2014-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/06/30/mount-a-network-cabinet/</loc>
+    <lastmod>2014-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/06/20/angular-in-5-minutes/</loc>
+    <lastmod>2014-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/06/12/check-your-multicast-settings/</loc>
+    <lastmod>2014-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/06/07/how-i-got-burned-win8/</loc>
+    <lastmod>2014-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/06/01/chromecast-review/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/05/26/chocolatey-package-manager/</loc>
+    <lastmod>2014-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/05/19/ocr-solar-meter-reader-part1/</loc>
+    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/05/19/ocr-solar-meter-reader-part2/</loc>
+    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/05/09/dbrand-skin-review/</loc>
+    <lastmod>2014-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/04/29/build-a-base-for-your-shed/</loc>
+    <lastmod>2014-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/04/24/automatically-post-your-blog-to-social-media/</loc>
+    <lastmod>2014-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/04/22/replacing-a-toilet-cistern/</loc>
+    <lastmod>2014-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/04/16/installing-a-new-bathroom-basin/</loc>
+    <lastmod>2014-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/04/14/aussie-retailers-could-learn-from-dollar-shave-club/</loc>
+    <lastmod>2014-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/04/10/developing-for-screen-readers-is-a-special-kind-of-hell/</loc>
+    <lastmod>2014-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/04/04/every-developer-should-learn-regex/</loc>
+    <lastmod>2014-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/03/30/replacing-a-shower-head/</loc>
+    <lastmod>2014-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/03/28/build-a-ceiling-storage-system-for-your-garage/</loc>
+    <lastmod>2014-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/03/09/create-a-tag-cloud-in-jekyll/</loc>
+    <lastmod>2014-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/03/04/create-a-single-page-app-in-2-minutes-using-ember-app-kit/</loc>
+    <lastmod>2014-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/02/06/fix-visual-studio-taking-a-long-time-to-load-debug-symbols/</loc>
+    <lastmod>2014-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/01/30/dont-switch-to-ghost-blogging-platform-yet/</loc>
+    <lastmod>2014-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/01/22/linking-to-google-drive-images-from-your-blog/</loc>
+    <lastmod>2014-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2014/01/14/entity-tags-etags-what-they-are-and-why-they-rock/</loc>
+    <lastmod>2014-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diy/2014/01/06/belkin-wemo-light-switch-review/</loc>
+    <lastmod>2014-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2013/12/18/auto-mocking-with-automoq/</loc>
+    <lastmod>2013-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2013/12/16/setting-up-syntaxhighligher-on-blogger/</loc>
+    <lastmod>2013-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2013/10/13/vs2013-web-essentials---zen-coding-is-a-huge-time-saver-for-web-developers/</loc>
+    <lastmod>2013-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/2013/07/18/nested-dependencies-in-mvc4/</loc>
+    <lastmod>2013-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2017-10-25-stackable-boxes/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/accessibility/</loc>
+    <lastmod>2014-04-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/argh/</loc>
+    <lastmod>2014-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/aurelia/</loc>
+    <lastmod>2015-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/automation/</loc>
+    <lastmod>2014-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/bathroom/</loc>
+    <lastmod>2015-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/belkin/</loc>
+    <lastmod>2014-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/blogging/</loc>
+    <lastmod>2016-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/build-it/</loc>
+    <lastmod>2015-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/c#/</loc>
+    <lastmod>2014-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/caching/</loc>
+    <lastmod>2014-01-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/chromecast/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/csharp/</loc>
+    <lastmod>2015-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/css/</loc>
+    <lastmod>2015-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/dbrand/</loc>
+    <lastmod>2014-05-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/demolition/</loc>
+    <lastmod>2014-10-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/development/</loc>
+    <lastmod>2014-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/diy/</loc>
+    <lastmod>2014-08-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/door/</loc>
+    <lastmod>2015-07-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/dotnet/</loc>
+    <lastmod>2014-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/ember/</loc>
+    <lastmod>2014-03-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/family/</loc>
+    <lastmod>2015-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/fix-it/</loc>
+    <lastmod>2015-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/floor/</loc>
+    <lastmod>2014-08-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/flooring/</loc>
+    <lastmod>2015-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/ghost/</loc>
+    <lastmod>2014-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/how-i-got-burned-today/</loc>
+    <lastmod>2014-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/html/</loc>
+    <lastmod>2014-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/ifttt/</loc>
+    <lastmod>2014-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/ikea/</loc>
+    <lastmod>2015-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/javascript/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/jekyll/</loc>
+    <lastmod>2014-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/knockout/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/meter/</loc>
+    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/mvc4/</loc>
+    <lastmod>2013-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/networking/</loc>
+    <lastmod>2014-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/ocr/</loc>
+    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/op-ed/</loc>
+    <lastmod>2014-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/opinion/</loc>
+    <lastmod>2014-04-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/package-management/</loc>
+    <lastmod>2014-05-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/phone/</loc>
+    <lastmod>2014-07-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/plastering/</loc>
+    <lastmod>2014-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/plumbing/</loc>
+    <lastmod>2014-04-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/programming/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/raspberry-pi/</loc>
+    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/regex/</loc>
+    <lastmod>2014-04-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/reno/</loc>
+    <lastmod>2015-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/repair/</loc>
+    <lastmod>2014-07-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/retailers/</loc>
+    <lastmod>2014-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/review/</loc>
+    <lastmod>2015-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/shed/</loc>
+    <lastmod>2014-04-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/single-page-app/</loc>
+    <lastmod>2014-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/social-media/</loc>
+    <lastmod>2014-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/solar/</loc>
+    <lastmod>2014-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/spa/</loc>
+    <lastmod>2014-10-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/storage/</loc>
+    <lastmod>2014-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/swift/</loc>
+    <lastmod>2015-11-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/syntax-highligher/</loc>
+    <lastmod>2013-12-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2014-04-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/tech/</loc>
+    <lastmod>2015-04-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/tech-guide/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/testing/</loc>
+    <lastmod>2013-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/tools/</loc>
+    <lastmod>2016-01-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/visual-studio/</loc>
+    <lastmod>2014-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/window/</loc>
+    <lastmod>2015-05-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/windows/</loc>
+    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/windows-8/</loc>
+    <lastmod>2014-06-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

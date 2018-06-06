@@ -44,11 +44,14 @@
       </div> -->
       <div style="float: left">
         <p>
-            <time>{{ with .Site.Params.dateFormat }}{{ $.Date.Format . }}{{ else }}{{ .Date.Format "02 Jan 2006, 15:04" }}{{ end }}</time><br />
+            <time>{{ with .Site.Params.dateFormat }}{{ $.Date.Format . }}{{ else }}{{ .Date.Format "02 Jan 2006, 15:04" }}{{ end }}</time>
+            {{ if not ($.Scratch.Get "isFrontPage") }}
+            <br />
             <a class="btn btn-social-icon btn-twitter" href="http://twitter.com/share?url={{ .Permalink }}&amp;text={{ .Title }}&amp;via=dfrencham"><i class="fa fa-twitter"></i></a>
             <a class="btn btn-social-icon btn-facebook" href="http://www.facebook.com/sharer.php?u={{ .Permalink }}&amp;t={{ .Title }}"><i class="fa fa-facebook"></i></a>
             <a class="btn btn-social-icon btn-google-plus" href="https://plus.google.com/share?url={{ .Permalink }}"><i class="fa fa-google-plus"></i></a>
             <a class="btn btn-social-icon btn-linkedin" href="http://www.linkedin.com/shareArticle?url={{ .Permalink }}"><i class="fa fa-linkedin"></i></a>      
+            {{ end }}
         </p>
      </div>      
       <div style="float: right">

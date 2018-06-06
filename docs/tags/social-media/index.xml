@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Media on DIYDeveloper.io</title>
+    <link>http://example.org/tags/social-media/</link>
+    <description>Recent content in Social Media on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automatically post your blog to social media</title>
+      <link>http://example.org/tech/2014/04/24/automatically-post-your-blog-to-social-media/</link>
+      <pubDate>Thu, 24 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/04/24/automatically-post-your-blog-to-social-media/</guid>
+      <description>&lt;p&gt;A good friend of mine recently said &amp;ldquo;it&amp;rsquo;s a pity I can&amp;rsquo;t just automatically post my blog entries on social media&amp;rdquo;. Good news! You can - with one caveat&amp;hellip; you can everywhere except Google+.&lt;/p&gt;
+
+&lt;p&gt;If-That-Then-This (&lt;a href=&#34;http://ifttt.com&#34;&gt;IFTTT&lt;/a&gt;) is a fantastic (free!) integration tool. I&amp;rsquo;ll show you how to leverage it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

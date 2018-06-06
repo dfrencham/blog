@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aurelia on DIYDeveloper.io</title>
+    <link>http://example.org/tags/aurelia/</link>
+    <description>Recent content in Aurelia on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/aurelia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accidental NPM Packaging (and JSPM!)</title>
+      <link>http://example.org/tech/2015/04/27/accidental-npm/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/04/27/accidental-npm/</guid>
+      <description>&lt;p&gt;Last week I created a package - an NPM. I didn&amp;rsquo;t &lt;em&gt;intend&lt;/em&gt; to. I just wanted to use the Microsoft Signal-R javascript client, and I was surprised to see it wasn&amp;rsquo;t listed in the Node package repository.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Animating Aurelia</title>
+      <link>http://example.org/tech/2015/04/21/animating-aurelia/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/04/21/animating-aurelia/</guid>
+      <description>&lt;p&gt;Have you heard of Aurelia? It&amp;rsquo;s Rob Eisenberg&amp;rsquo;s new framework. If you travelled forward in time two years and wrote a framework based on cutting edge tech, Aurelia would be the result. Aurelia is built on technology so new that the standards haven&amp;rsquo;t been ratified yet. I&amp;rsquo;m talking ES6, ES7, transpiling, a proper module loader, lambda expressions (arrow functions), computed properties, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;pure-img blog-img &#34; src=&#34;http://example.org/images/aurelia-logo.png&#34; alt=&#34;Aurelia&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now let&amp;rsquo;s use this massively powerful framework to animate a few boxes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

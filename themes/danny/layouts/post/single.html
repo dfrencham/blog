@@ -1,11 +1,13 @@
 {{ partial "header.html" . }}
 
-<div class="header">
-  <h1>{{ .Site.Params.sitetitle }}</h1>
-  <h2>{{ .Site.Params.subtitle }}</h2>
-</div>
+{{ partial "page_header.html" . }}
+
 <div class="content">
 
+    <div class="page-header">
+        <h1>{{ .Title }}</h1>
+    </div>
+  
   {{ partial "post_meta.html" . }}
 
   {{ .Content }}

@@ -1,9 +1,5 @@
 {{ partial "header.html" . }}
-
-<div class="header">
-  <h1>{{ .Title }}</h1>
-  <h2>{{ .Site.Params.subtitle }}</h2>
-</div>
+{{ partial "page_header.html" . }}
 
 {{ if not .Paginator.HasPrev }}
 <div class="post-container">
@@ -12,6 +8,7 @@
 {{ end }}
 
   {{ if not .Paginator.HasPrev }}
+
     <div class="pure-g post-index">
       {{ range first 2 .Data.Pages }}
         <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-2">
@@ -35,7 +32,7 @@
     </div>
 
     {{ range first 10 (after (add 4 .Paginator.PageNumber) .Data.Pages) }}
-    <div class="pure-g dashed-top archive-summary">
+    <div class="pure-g archive-summary">
         <div class="pure-u-1">
         {{ .Render "summary"}}
         </div>
@@ -49,10 +46,12 @@
         {{ partial "pagination.html" . }}
     </div>
   </div>
-
+  
   {{ if not .Paginator.HasPrev }}
+
   <div class="pure-g dashed-top">
   <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-2">
+    
     <h3>Build It</h3>
     <ul>
         {{ range .Site.Taxonomies.tags.flooring.Pages}}
@@ -83,6 +82,19 @@
         {{ end }}
     </ul>
   </div>
+  </div>
+
+  <div class="pure-g dashed-top">
+      <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-2">
+          <h3>Tags</h3>
+          <div class="tagcloud">
+            {{ partial "tagcloud.html" . }}
+          </div>   
+      </div>
+      <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-2">
+          <h3>About</h3>
+          Danny Frencham is a 30-something software developer, based in Brisbane Australia. 
+      </div>
   </div>
   {{ end }}
 

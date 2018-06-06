@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meter on DIYDeveloper.io</title>
+    <link>http://example.org/tags/meter/</link>
+    <description>Recent content in Meter on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 May 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/meter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OCR Solar Meter Reader - Part 1</title>
+      <link>http://example.org/tech/2014/05/19/ocr-solar-meter-reader-part1/</link>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/05/19/ocr-solar-meter-reader-part1/</guid>
+      <description>&lt;p&gt;I had some solar panels installed last year. I wanted to read my inverter statistics, but I also wanted to log exactly how much power I import/export. Challenge - I can&amp;rsquo;t physically plug anything into the meter (power company regulations). What to do?&lt;/p&gt;
+
+&lt;p&gt;How about a web cam, raspberry pi, and OCR?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OCR Solar Meter Reader - Part 2</title>
+      <link>http://example.org/tech/2014/05/19/ocr-solar-meter-reader-part2/</link>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/05/19/ocr-solar-meter-reader-part2/</guid>
+      <description>&lt;p&gt;Continuation of Raspberry Pi Solar Data Logger article. In this part I detail the software side of the OCR solar data logger. Perl, APIs, C. Hooray!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

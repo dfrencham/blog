@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ghost on DIYDeveloper.io</title>
+    <link>http://example.org/tags/ghost/</link>
+    <description>Recent content in Ghost on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/ghost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Don&#39;t switch to Ghost blogging platform (yet)</title>
+      <link>http://example.org/tech/2014/01/30/dont-switch-to-ghost-blogging-platform-yet/</link>
+      <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/01/30/dont-switch-to-ghost-blogging-platform-yet/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a typical developer. I often can&amp;rsquo;t resist the urge to try different platforms. My current blogging platform (blogger) has numerous limitations. I started looking for alternatives, and Ghost appeared on the radar.&lt;/p&gt;
+
+&lt;p&gt;Ghost is a ground up blogging platform, being developed under the premise that other platforms (such as word press) are becoming overly complex.&lt;/p&gt;
+
+&lt;p&gt;Before I go into too much detail, I should point out that Ghost is beta (maybe even alpha software).
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

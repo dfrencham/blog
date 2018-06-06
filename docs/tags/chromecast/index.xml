@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chromecast on DIYDeveloper.io</title>
+    <link>http://example.org/tags/chromecast/</link>
+    <description>Recent content in Chromecast on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/chromecast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Add Ethernet to your ChromeCast for 12 bucks</title>
+      <link>http://example.org/tech/2015/09/01/chromecast-ethernet/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/09/01/chromecast-ethernet/</guid>
+      <description>&lt;p&gt;ChromeCast&amp;rsquo;s are great&amp;hellip; as long as your wifi is. I upgraded my router firmware, and my ChromeCast started dropping out. Rather than fixing &lt;em&gt;that&lt;/em&gt; problem, I figured &amp;ldquo;why not just hardwire the damn thing?&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chromecast issues? Check your Multicast settings</title>
+      <link>http://example.org/tech/2014/06/12/check-your-multicast-settings/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/06/12/check-your-multicast-settings/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had network gremlins for a few months now. Sometimes my WeMo switches are visible, sometimes not. Chromecast is the same. My devices were screaming for attention, but my router wasn&amp;rsquo;t listening. Lets look at Multicasting (and Broadcasting).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chrome Cast (Australian) Review</title>
+      <link>http://example.org/tech/2014/06/01/chromecast-review/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/06/01/chromecast-review/</guid>
+      <description>&lt;p&gt;In July 2013, Google released the ChromeCast in the US. This allowed Google to finally make the jump to the TV, and provide some competition for the AppleTV (and other media streamers).&lt;/p&gt;
+
+&lt;p&gt;After a long wait, the ChromeCast has finally launched in Australia. The Australia tax has raised the price from $35 to $50. Is it worthy of your hard earned dollars? Here&amp;rsquo;s the low down.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

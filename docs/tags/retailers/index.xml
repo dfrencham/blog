@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retailers on DIYDeveloper.io</title>
+    <link>http://example.org/tags/retailers/</link>
+    <description>Recent content in Retailers on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/retailers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aussie retailers could learn a thing or two from dollar shave club</title>
+      <link>http://example.org/tech/2014/04/14/aussie-retailers-could-learn-from-dollar-shave-club/</link>
+      <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/04/14/aussie-retailers-could-learn-from-dollar-shave-club/</guid>
+      <description>&lt;p&gt;A couple of weeks ago, something interesting popped up on my Facebook feed. It was a company called &amp;ldquo;Dollar Shave Club&amp;rdquo; offering razors direct to my door for $4 a month. How can a company afford to do that? Would the razors suck worse than Aldi razors?&lt;/p&gt;
+
+&lt;p&gt;The razors didn&amp;rsquo;t show up. I contacted the company. How they handled it shows why traditional retailers should be terrified.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

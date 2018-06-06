@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demolition on DIYDeveloper.io</title>
+    <link>http://example.org/tags/demolition/</link>
+    <description>Recent content in Demolition on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/demolition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Remove wall tiles the lazy way</title>
+      <link>http://example.org/diy/2014/10/17/removing-stubborn-wall-tiles/</link>
+      <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/10/17/removing-stubborn-wall-tiles/</guid>
+      <description>&lt;p&gt;Ever had to remove wall tiles from plasterboard (gyprock) ? It sucks. It tears up the surface. It takes forever. Is there an easier way? Yes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Concrete Floor Grinding for Dummies</title>
+      <link>http://example.org/diy/2014/09/09/Concrete-Grinding-for-dummies/</link>
+      <pubDate>Tue, 09 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/09/09/Concrete-Grinding-for-dummies/</guid>
+      <description>&lt;p&gt;If you want your floor to be really really flat, it&amp;rsquo;s hard to go past a concrete grinder&amp;hellip; at least if you can get the bloody thing into your car.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Removing Floor Tiles and Thinset</title>
+      <link>http://example.org/diy/2014/08/27/removing-tiles/</link>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/08/27/removing-tiles/</guid>
+      <description>&lt;p&gt;How hard can it be to remove a few floor tiles? Harder than you think&amp;hellip;. and it will take longer&amp;hellip; and it will be dusty. I&amp;rsquo;ll show you the hard way, then the slightly less hard way.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

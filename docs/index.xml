@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIYDeveloper.io</title>
+    <link>http://example.org/</link>
+    <description>Recent content on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Angular4 Startup Configuration Stupidity</title>
+      <link>http://example.org/tech/2017/11/01/angular4-startup-configuration-stupidity/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2017/11/01/angular4-startup-configuration-stupidity/</guid>
+      <description>&lt;p&gt;Lets look at 2 ways to read your run time configuration with Angular 4.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Help - my Jekyll blog assets are broken!</title>
+      <link>http://example.org/tech/2016/03/11/my-jekyll-assets-are-broken/</link>
+      <pubDate>Fri, 11 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2016/03/11/my-jekyll-assets-are-broken/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;ve just pushed a post to your github pages blog and discovered your css and scripts are all broken, don&amp;rsquo;t worry! It&amp;rsquo;s a Jekyll issue.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to find spare parts at the wreckers</title>
+      <link>http://example.org/diy/2016/01/18/a-trip-to-the-wreckers/</link>
+      <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2016/01/18/a-trip-to-the-wreckers/</guid>
+      <description>&lt;p&gt;Wrecking yards (or junk yards if you are American) are a great place to get spare parts for your car at massive discounts. There are a few things you need to know before going.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Calling pcap from Swift (using a closure)</title>
+      <link>http://example.org/tech/2015/11/27/swift-pcap/</link>
+      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/11/27/swift-pcap/</guid>
+      <description>&lt;p&gt;Swift is Apple&amp;rsquo;s clever new language. It is designed to be intuitive, modern, and read-able. Which it is, until you want to make a call to a C library - such as pcap.h.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Different Types of power drills explained</title>
+      <link>http://example.org/diy/2015/11/10/drills-drills-drills/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2015/11/10/drills-drills-drills/</guid>
+      <description>&lt;p&gt;Buying a drill is easy right? Yeah, nah. Do you need to smash through concrete? Drive screws in? hang a picture? Choose the wrong drill for the task, and it is going to take a long time. I&amp;rsquo;m going to explain the different types of drills and their uses.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Add Ethernet to your ChromeCast for 12 bucks</title>
+      <link>http://example.org/tech/2015/09/01/chromecast-ethernet/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/09/01/chromecast-ethernet/</guid>
+      <description>&lt;p&gt;ChromeCast&amp;rsquo;s are great&amp;hellip; as long as your wifi is. I upgraded my router firmware, and my ChromeCast started dropping out. Rather than fixing &lt;em&gt;that&lt;/em&gt; problem, I figured &amp;ldquo;why not just hardwire the damn thing?&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to replace your exhaust fan</title>
+      <link>http://example.org/diy/2015/08/19/replace-your-exhaust-fan/</link>
+      <pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2015/08/19/replace-your-exhaust-fan/</guid>
+      <description>&lt;p&gt;Is your old exhaust fan too noisy? does it let cold air through from your ceiling cavity? Exhaust fans are easy to replace. I&amp;rsquo;ll show you how.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nestable knockout web components</title>
+      <link>http://example.org/tech/2015/08/10/knockout-web-components/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/08/10/knockout-web-components/</guid>
+      <description>&lt;p&gt;Web Components are the Next-Big-Thing&amp;trade;, the second-coming, etc etc etc. Yeah, so we&amp;rsquo;ve all been hearing about web components. How can we use them in a nestable, compatible way?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Review - Macbook Pro 13&#34; (with ForceTouch)</title>
+      <link>http://example.org/tech/2015/07/31/macbook-pro-review/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/07/31/macbook-pro-review/</guid>
+      <description>&lt;p&gt;Here is my review of the Macbook Pro 13&amp;ldquo; - with ForceTouch.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to plane a door</title>
+      <link>http://example.org/diy/2015/07/12/how-to-plane-a-door/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2015/07/12/how-to-plane-a-door/</guid>
+      <description>&lt;p&gt;Is your cupboard (or other) door scraping against the frame? All you need to fix it is a power plane (the type with a blade, not wings).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Finding a javascript performance gremlin</title>
+      <link>http://example.org/tech/2015/05/30/finding-a-javascript-performance-gremlin/</link>
+      <pubDate>Sat, 30 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/05/30/finding-a-javascript-performance-gremlin/</guid>
+      <description>&lt;p&gt;Performance issues in a JS app can be frustrating&amp;hellip; especially when your app is convoluted soup of data-bound observables. Today I discovered a performance gremlin. I&amp;rsquo;ll walk you through the process of finding it and rectifying it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to replace glass door rollers</title>
+      <link>http://example.org/diy/2015/05/26/how-to-replace-glass-door-rollers/</link>
+      <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2015/05/26/how-to-replace-glass-door-rollers/</guid>
+      <description>&lt;p&gt;Don&amp;rsquo;t let a scraping, dragging door ruin your day. Let&amp;rsquo;s replace the rollers!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to Upgrade Windows 8 to Windows 10</title>
+      <link>http://example.org/tech/2015/05/13/upgrading-windows-81-to-windows-10/</link>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/05/13/upgrading-windows-81-to-windows-10/</guid>
+      <description>&lt;p&gt;The Windows 10 consumer preview is here! If you&amp;rsquo;re already running Windows 8, the upgrade is simple. If you have a spare couple of hours and would like to run a slightly-buggy pre-release operating system - you&amp;rsquo;re in luck. Here is how you do it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My first few hours with Visual Studio Code</title>
+      <link>http://example.org/tech/2015/04/30/microsoft-code/</link>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/04/30/microsoft-code/</guid>
+      <description>&lt;p&gt;Microsoft have released a new editor. This is Microsoft&amp;rsquo;s take on Sublime/Atom. It looks nice, it feels fast, and it can run on OSX or Linux (as well as Windows). I&amp;rsquo;ve been using it for work this morning - here are my impressions.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Accidental NPM Packaging (and JSPM!)</title>
+      <link>http://example.org/tech/2015/04/27/accidental-npm/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/04/27/accidental-npm/</guid>
+      <description>&lt;p&gt;Last week I created a package - an NPM. I didn&amp;rsquo;t &lt;em&gt;intend&lt;/em&gt; to. I just wanted to use the Microsoft Signal-R javascript client, and I was surprised to see it wasn&amp;rsquo;t listed in the Node package repository.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Animating Aurelia</title>
+      <link>http://example.org/tech/2015/04/21/animating-aurelia/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2015/04/21/animating-aurelia/</guid>
+      <description>&lt;p&gt;Have you heard of Aurelia? It&amp;rsquo;s Rob Eisenberg&amp;rsquo;s new framework. If you travelled forward in time two years and wrote a framework based on cutting edge tech, Aurelia would be the result. Aurelia is built on technology so new that the standards haven&amp;rsquo;t been ratified yet. I&amp;rsquo;m talking ES6, ES7, transpiling, a proper module loader, lambda expressions (arrow functions), computed properties, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;pure-img blog-img &#34; src=&#34;http://example.org/images/aurelia-logo.png&#34; alt=&#34;Aurelia&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now let&amp;rsquo;s use this massively powerful framework to animate a few boxes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ikea Kitchen Part 2: Extract and Install</title>
+      <link>http://example.org/diy/2015/03/31/installing-an-ikea-kitchen/</link>
+      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2015/03/31/installing-an-ikea-kitchen/</guid>
+      <description>&lt;p&gt;Last year I installed an Ikea Kitchen. I posted about the joy of the Ikea ordering process, installed the kitchen, and forgot to post the installation process. Well, here it is. If you&amp;rsquo;ve ever wondered how to install your own kitchen, wonder no more. I&amp;rsquo;ll walk you through installing an Ikea kitchen.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Floating Floors</title>
+      <link>http://example.org/diy/2015/02/07/floating-floors/</link>
+      <pubDate>Sat, 07 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2015/02/07/floating-floors/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re sick of staring at tiles from the 1970&amp;rsquo;s or you have a concrete slab floor (?), this guide is for you! Laying a floating floor is a great way to update your house.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Child proofing my TV</title>
+      <link>http://example.org/diy/2015/01/08/childproofing-my-tv/</link>
+      <pubDate>Thu, 08 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2015/01/08/childproofing-my-tv/</guid>
+      <description>&lt;p&gt;Kids destroy your expensive TV? Your $1700 TV? Good news dear reader. I&amp;rsquo;ve found a way to stop it happening again.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>3 Awesome New C# Features</title>
+      <link>http://example.org/tech/2014/12/15/csharp6-new-features/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/12/15/csharp6-new-features/</guid>
+      <description>&lt;p&gt;A new version of C# is on the way. Here are 3 new features to make your life easier.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fix Dry Wall Surface</title>
+      <link>http://example.org/diy/2014/11/24/repair-drywall-surface/</link>
+      <pubDate>Mon, 24 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/11/24/repair-drywall-surface/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;ve tried ripping anything off drywall (like Tiles for instance), you&amp;rsquo;ve probably notice a problem. It utterly destroys the surface of the drywall. It is fairly easy to fix.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Replace an old dome skylight</title>
+      <link>http://example.org/diy/2014/11/16/replace-a-skylight-dome/</link>
+      <pubDate>Sun, 16 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/11/16/replace-a-skylight-dome/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m going to show you how to replace your old acrylic dome skylight. It sure beats a hole in the roof&amp;hellip; unless you want a hole in your roof.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital Death - Saving your family&#39;s digital life</title>
+      <link>http://example.org/tech/2014/10/30/digital-death/</link>
+      <pubDate>Thu, 30 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/10/30/digital-death/</guid>
+      <description>&lt;p&gt;I look after all of my family&amp;rsquo;s digital needs. Internet, Netflix, photos, backups&amp;hellip;. but what happens if I get hurt? or killed?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Remove wall tiles the lazy way</title>
+      <link>http://example.org/diy/2014/10/17/removing-stubborn-wall-tiles/</link>
+      <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/10/17/removing-stubborn-wall-tiles/</guid>
+      <description>&lt;p&gt;Ever had to remove wall tiles from plasterboard (gyprock) ? It sucks. It tears up the surface. It takes forever. Is there an easier way? Yes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SPA within a SPA? Durandal child routers</title>
+      <link>http://example.org/tech/2014/10/15/durandal-child-routers/</link>
+      <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/10/15/durandal-child-routers/</guid>
+      <description>&lt;p&gt;My current project had an interesting requirement come through: &amp;ldquo;We want the app to navigate to another single page app when the user clicks next on this page, but still have our widgets at the top&amp;rdquo;. The client wanted to utilise an existing durandal SPA inside a new durandal spa.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ordering an Ikea Kitchen is as much fun as riding a cheese grater</title>
+      <link>http://example.org/diy/2014/10/01/ordering-an-ikea-kitchen/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/10/01/ordering-an-ikea-kitchen/</guid>
+      <description>&lt;p&gt;Look at your tired old kitchen. Do you need to replace it? Look at all those happy people with new Ikea kitchens on the Internet.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yes, the doc-type is still important</title>
+      <link>http://example.org/diy/2014/09/19/the-doctype-is-still-important/</link>
+      <pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/09/19/the-doctype-is-still-important/</guid>
+      <description>&lt;p&gt;or&amp;hellip; &amp;ldquo;why don&amp;rsquo;t my before/after pseudo elements work in IE8?&amp;rdquo;. It may be 2014, but doc types still matter.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Concrete Floor Grinding for Dummies</title>
+      <link>http://example.org/diy/2014/09/09/Concrete-Grinding-for-dummies/</link>
+      <pubDate>Tue, 09 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/09/09/Concrete-Grinding-for-dummies/</guid>
+      <description>&lt;p&gt;If you want your floor to be really really flat, it&amp;rsquo;s hard to go past a concrete grinder&amp;hellip; at least if you can get the bloody thing into your car.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Removing Floor Tiles and Thinset</title>
+      <link>http://example.org/diy/2014/08/27/removing-tiles/</link>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/08/27/removing-tiles/</guid>
+      <description>&lt;p&gt;How hard can it be to remove a few floor tiles? Harder than you think&amp;hellip;. and it will take longer&amp;hellip; and it will be dusty. I&amp;rsquo;ll show you the hard way, then the slightly less hard way.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to use drywall anchors</title>
+      <link>http://example.org/diy/2014/08/08/using-wall-anchors/</link>
+      <pubDate>Fri, 08 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/08/08/using-wall-anchors/</guid>
+      <description>&lt;p&gt;So you need to install something on the wall, but you can&amp;rsquo;t find a stud? (a timber upright). There&amp;rsquo;s a way! Let&amp;rsquo;s use some drywall anchors.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quick mobile optimisation for your blog</title>
+      <link>http://example.org/tech/2014/07/29/mobile-optimisation-for-your-blog/</link>
+      <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/07/29/mobile-optimisation-for-your-blog/</guid>
+      <description>&lt;p&gt;Here are some quick changes to make your blog (or other site) more readable on mobile devices. TLDR: viewport and mediaqueries.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Family vs Tech</title>
+      <link>http://example.org/tech/2014/07/19/family-vs-tech/</link>
+      <pubDate>Sat, 19 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/07/19/family-vs-tech/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Replace your Nexus 4 screen</title>
+      <link>http://example.org/tech/2014/07/07/replace-your-nexus4-screen/</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/07/07/replace-your-nexus4-screen/</guid>
+      <description>&lt;p&gt;The Nexus4 is a great phone. Unfortunately it is a little bit fragile. I fell asleep with my N4 in my pocket&amp;hellip; woke up, and the back had a crack. My wife dropped her N4 and the screen shattered.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to walk you through how to fix it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mount a network cabinet</title>
+      <link>http://example.org/diy/2014/06/30/mount-a-network-cabinet/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/06/30/mount-a-network-cabinet/</guid>
+      <description>&lt;p&gt;My home network is a little&amp;hellip; disorganised. I have 2 or 3 switches residing around the house, PoE, WiFi, and various cobbled together partially wired sections. Time to get organised. Time to get a rack!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Get Angular Running in 5 minutes </title>
+      <link>http://example.org/tech/2014/06/20/angular-in-5-minutes/</link>
+      <pubDate>Fri, 20 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/06/20/angular-in-5-minutes/</guid>
+      <description>&lt;p&gt;Want to try some &lt;a href=&#34;https://angularjs.org/&#34;&gt;Angular&lt;/a&gt; development? Need to get a dev environment set up? With a couple of automation tools, I&amp;rsquo;ll have you up and going in 5 minutes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chromecast issues? Check your Multicast settings</title>
+      <link>http://example.org/tech/2014/06/12/check-your-multicast-settings/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/06/12/check-your-multicast-settings/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had network gremlins for a few months now. Sometimes my WeMo switches are visible, sometimes not. Chromecast is the same. My devices were screaming for attention, but my router wasn&amp;rsquo;t listening. Lets look at Multicasting (and Broadcasting).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How I Got Burned Today - Windows 8 Install</title>
+      <link>http://example.org/tech/2014/06/07/how-i-got-burned-win8/</link>
+      <pubDate>Sat, 07 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/06/07/how-i-got-burned-win8/</guid>
+      <description>&lt;p&gt;Windows 8 polarises people. I&amp;rsquo;ve never minded it. It performs well in spite of having a split personality. Shiny new SSD in hand, I attempted a clean install on my laptop. Windows 8 pushed me from my usual slightly agitated states towards a murderous rage.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chrome Cast (Australian) Review</title>
+      <link>http://example.org/tech/2014/06/01/chromecast-review/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/06/01/chromecast-review/</guid>
+      <description>&lt;p&gt;In July 2013, Google released the ChromeCast in the US. This allowed Google to finally make the jump to the TV, and provide some competition for the AppleTV (and other media streamers).&lt;/p&gt;
+
+&lt;p&gt;After a long wait, the ChromeCast has finally launched in Australia. The Australia tax has raised the price from $35 to $50. Is it worthy of your hard earned dollars? Here&amp;rsquo;s the low down.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chocolatey - Package Management for Windows</title>
+      <link>http://example.org/tech/2014/05/26/chocolatey-package-manager/</link>
+      <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/05/26/chocolatey-package-manager/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s finally a package manager for Windows in the same style as Apt-Get, and it is surprisingly good. Lets get &lt;a href=&#34;https://chocolatey.org/&#34;&gt;Chocolatey&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OCR Solar Meter Reader - Part 1</title>
+      <link>http://example.org/tech/2014/05/19/ocr-solar-meter-reader-part1/</link>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/05/19/ocr-solar-meter-reader-part1/</guid>
+      <description>&lt;p&gt;I had some solar panels installed last year. I wanted to read my inverter statistics, but I also wanted to log exactly how much power I import/export. Challenge - I can&amp;rsquo;t physically plug anything into the meter (power company regulations). What to do?&lt;/p&gt;
+
+&lt;p&gt;How about a web cam, raspberry pi, and OCR?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OCR Solar Meter Reader - Part 2</title>
+      <link>http://example.org/tech/2014/05/19/ocr-solar-meter-reader-part2/</link>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/05/19/ocr-solar-meter-reader-part2/</guid>
+      <description>&lt;p&gt;Continuation of Raspberry Pi Solar Data Logger article. In this part I detail the software side of the OCR solar data logger. Perl, APIs, C. Hooray!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dbrand Phone Skin Review</title>
+      <link>http://example.org/tech/2014/05/09/dbrand-skin-review/</link>
+      <pubDate>Fri, 09 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/05/09/dbrand-skin-review/</guid>
+      <description>&lt;p&gt;Someone at LG needs to be slapped, and I know who. It&amp;rsquo;s Bob - in Product Design. &amp;ldquo;I&amp;rsquo;ve got an idea!&amp;rdquo;, exclaimed Bob. &amp;ldquo;How about we give the Nexus4 a glass back!&amp;rdquo;. In an ideal world he would have been beaten to death by his co-workers - but he wasn&amp;rsquo;t&amp;hellip; so I have a Nexus 4, it&amp;rsquo;s broken&amp;hellip; and here we are.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m too cheap/lazy to fix a cracked Nexus4 back, so I decided to try a DBrand skin. On to the review&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Build a base for your shed</title>
+      <link>http://example.org/diy/2014/04/29/build-a-base-for-your-shed/</link>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/04/29/build-a-base-for-your-shed/</guid>
+      <description>&lt;p&gt;When I moved into my house I inherited a very sad looking shed. It was jammed inbetween the house and the side fence, and sitting on dirt. Part of the shed had rusted, and it leaked. Now I could have paid someone $1000 to put down a concrete pad, but I already had sleepers, gravel, and some old pavers - more than enough for a shed base!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Automatically post your blog to social media</title>
+      <link>http://example.org/tech/2014/04/24/automatically-post-your-blog-to-social-media/</link>
+      <pubDate>Thu, 24 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/04/24/automatically-post-your-blog-to-social-media/</guid>
+      <description>&lt;p&gt;A good friend of mine recently said &amp;ldquo;it&amp;rsquo;s a pity I can&amp;rsquo;t just automatically post my blog entries on social media&amp;rdquo;. Good news! You can - with one caveat&amp;hellip; you can everywhere except Google+.&lt;/p&gt;
+
+&lt;p&gt;If-That-Then-This (&lt;a href=&#34;http://ifttt.com&#34;&gt;IFTTT&lt;/a&gt;) is a fantastic (free!) integration tool. I&amp;rsquo;ll show you how to leverage it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Replacing a toilet cistern</title>
+      <link>http://example.org/diy/2014/04/22/replacing-a-toilet-cistern/</link>
+      <pubDate>Tue, 22 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/04/22/replacing-a-toilet-cistern/</guid>
+      <description>&lt;p&gt;Have you ever seen just how curious a 4 year old can be? My 4 year old wondered what was under the impossible-to-replace vitreous china Cistern lid. As a result, I needed a new cistern lid (my 4 year old survived unscathed).&lt;/p&gt;
+
+&lt;p&gt;Turns out that you can&amp;rsquo;t buy a Cistern lid in Brisbane, so read on and learn how to replace the entire toilet cistern&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Installing a new bathroom basin</title>
+      <link>http://example.org/diy/2014/04/16/installing-a-new-bathroom-basin/</link>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/04/16/installing-a-new-bathroom-basin/</guid>
+      <description>&lt;p&gt;When I moved into my house 2 years ago, it had one glaring problem&amp;hellip;. a strip of rust around the front of the bathroom basin. Because I&amp;rsquo;m not the best at prioritising things (and there happened to be some great sales on Steam, and I have 2 young kids, etc etc), my solution was to put a piece of white duct tape over it for 2 years and get on with my life.&lt;/p&gt;
+
+&lt;p&gt;I happened to impulse buy a sink a few weeks ago (I had the old sink measurements saved on my phone!), I decided to have a go at installing it.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Aussie retailers could learn a thing or two from dollar shave club</title>
+      <link>http://example.org/tech/2014/04/14/aussie-retailers-could-learn-from-dollar-shave-club/</link>
+      <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/04/14/aussie-retailers-could-learn-from-dollar-shave-club/</guid>
+      <description>&lt;p&gt;A couple of weeks ago, something interesting popped up on my Facebook feed. It was a company called &amp;ldquo;Dollar Shave Club&amp;rdquo; offering razors direct to my door for $4 a month. How can a company afford to do that? Would the razors suck worse than Aldi razors?&lt;/p&gt;
+
+&lt;p&gt;The razors didn&amp;rsquo;t show up. I contacted the company. How they handled it shows why traditional retailers should be terrified.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Developing for Screen Readers is a special kind of hell</title>
+      <link>http://example.org/tech/2014/04/10/developing-for-screen-readers-is-a-special-kind-of-hell/</link>
+      <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/04/10/developing-for-screen-readers-is-a-special-kind-of-hell/</guid>
+      <description>&lt;p&gt;Picture the scenario&amp;hellip;. your manager asks you add support for assistive technologies to your shiny new SPA (Single-Page-App is a development pattern that can be roughly described as a highly responsive javascript explosion). Your client wants to implement the W3C-AA Accessibility Standard.&lt;/p&gt;
+
+&lt;p&gt;You are going to pull out your IDE, make a few tweaks to the app, and the screen reader will happily read your web application out to appreciative users.&lt;/p&gt;
+
+&lt;p&gt;After adding a few ARIA tags, you fire up a screen reader&amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Every developer should learn regex</title>
+      <link>http://example.org/diy/2014/04/04/every-developer-should-learn-regex/</link>
+      <pubDate>Fri, 04 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/04/04/every-developer-should-learn-regex/</guid>
+      <description>&lt;p&gt;Being able to write Regex (otherwise known as Regular Expressions) is a skill every developer should learn. You can use Regex to find very specific text strings, to reformat files, and to do very specific replacements.&lt;/p&gt;
+
+&lt;p&gt;When combined with a good text editor, &lt;a class=&#34;fancybox&#34; href=&#34;http://imgs.xkcd.com/comics/regular_expressions.png&#34;&gt;you are unstoppable&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Replacing a shower head</title>
+      <link>http://example.org/diy/2014/03/30/replacing-a-shower-head/</link>
+      <pubDate>Sun, 30 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/03/30/replacing-a-shower-head/</guid>
+      <description>&lt;p&gt;A bad shower head is more annoying than you might think. It&amp;rsquo;s something we use every day, but it amazes me how many people will put up with a rubbish shower head for years. You wouldn&amp;rsquo;t put up with a crappy text editor for that long, would you?&lt;/p&gt;
+
+&lt;p&gt;It takes 10 minutes to replace, so lets get started!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Build a ceiling storage system for your garage</title>
+      <link>http://example.org/diy/2014/03/28/build-a-ceiling-storage-system-for-your-garage/</link>
+      <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/03/28/build-a-ceiling-storage-system-for-your-garage/</guid>
+      <description>&lt;div class=&#34;shoppinglist-wrapper&#34;&gt;
+  &lt;div class=&#34;shoppinglist paper&#34;&gt;
+   &lt;h3&gt;Materials List&lt;/h3&gt;
+   &lt;ul style=&#34;list-style-type:none;padding-left:0px;&#34;&gt;
+    
+&lt;li style=&#34;padding-left:12px;&#34;&gt;
+  &lt;span class=&#34;glyphicon glyphicon-unchecked&#34;&gt;&lt;/span&gt;
+  4 x (A) Pine 89x19mm wide
+&lt;/li&gt;    	
+&lt;li style=&#34;padding-left:12px;&#34;&gt;
+  &lt;span class=&#34;glyphicon glyphicon-unchecked&#34;&gt;&lt;/span&gt;
+  2 x (B) Pine 70x35mm
+&lt;/li&gt;    	
+&lt;li style=&#34;padding-left:12px;&#34;&gt;
+  &lt;span class=&#34;glyphicon glyphicon-unchecked&#34;&gt;&lt;/span&gt;
+  6 x Plastic storage tubs
+&lt;/li&gt;    	
+&lt;li style=&#34;padding-left:12px;&#34;&gt;
+  &lt;span class=&#34;glyphicon glyphicon-unchecked&#34;&gt;&lt;/span&gt;
+  1 x Wood Glue
+&lt;/li&gt;    	
+&lt;li style=&#34;padding-left:12px;&#34;&gt;
+  &lt;span class=&#34;glyphicon glyphicon-unchecked&#34;&gt;&lt;/span&gt;
+  Countersunk Screws Phillips Head
+&lt;/li&gt;    	
+
+   &lt;/ul&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Are you out of storage space in your garage? No where left to put up shelves? No space for cupboards?&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to show you how to build a ceiling storage system for your garage. This system uses plastic tubs that slide into place on timber rails, and can be assembled in a single afternoon.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Create a tag cloud using Jekyll</title>
+      <link>http://example.org/tech/2014/03/09/create-a-tag-cloud-in-jekyll/</link>
+      <pubDate>Sun, 09 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/03/09/create-a-tag-cloud-in-jekyll/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently switched from Blogger to Github pages, and I&amp;rsquo;m using the very cool Jekyll app to manage my blog posts. For those that don&amp;rsquo;t know, Jekyll allows you to end your blog pages locally using Markup syntax, then it translates your post to HTML. From there, you commit it to a git repository.&lt;/p&gt;
+
+&lt;p&gt;One feature missing from Jekyll is Word Clouds. I will show you how to add one.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Create a Single Page App in 2 Minutes using Ember App Kit</title>
+      <link>http://example.org/tech/2014/03/04/create-a-single-page-app-in-2-minutes-using-ember-app-kit/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/03/04/create-a-single-page-app-in-2-minutes-using-ember-app-kit/</guid>
+      <description>&lt;p&gt;Single Pages Apps (SPAs) are the current flavour of the month. They have seemingly appeared from nowhere, but now it seems like every developer is talking about them. Wikipedia describes this pattern as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A single-page application (SPA), also known as single-page interface (SPI), is a web application or web site that fits on a single web page with the goal of providing a more fluid user experience akin to a desktop application.
+In a SPA, either all necessary code – HTML, JavaScript, and CSS – is retrieved with a single page load, or the appropriate resources are dynamically loaded and added to the page as necessary, usually in response to user actions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In my experience they offer some advantages over traditional apps:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Very responsive&lt;/li&gt;
+&lt;li&gt;Rapid development time&lt;/li&gt;
+&lt;li&gt;Data is usually provided via a REST API - making integration to other systems easy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;along with some disadvantages:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Usually implemented with javascript (with all baggage it brings, such as horrendous function passing syntax everywhere)&lt;/li&gt;
+&lt;li&gt;Can be harder to debug - you can end up in dependency hell&lt;/li&gt;
+&lt;li&gt;Common tasks such as continuous integration is harder than with more mature patterns such as MVC (example: making javascript unit tests play nice with TFS).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The high responsiveness alone makes SPAs worth of investigating. Responsive web apps == happy users!&lt;/p&gt;
+
+&lt;p&gt;Now I&amp;rsquo;m going to show you how to build one.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fix Visual Studio taking a long time to load debug symbols</title>
+      <link>http://example.org/tech/2014/02/06/fix-visual-studio-taking-a-long-time-to-load-debug-symbols/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/02/06/fix-visual-studio-taking-a-long-time-to-load-debug-symbols/</guid>
+      <description>I lost a good couple of hours tracking this one down. If Visual Studio is taking a very long time to load debug symbols when debugging (think 5 minutes to 30 minutes), try this&amp;hellip;
+Delete all break points (Debug - &amp;gt; Delete All Break Points).
+Sometimes something small like this can be a lot more frustrating than a big issue. Hopefully this saves someone from going crazy.</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t switch to Ghost blogging platform (yet)</title>
+      <link>http://example.org/tech/2014/01/30/dont-switch-to-ghost-blogging-platform-yet/</link>
+      <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/01/30/dont-switch-to-ghost-blogging-platform-yet/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a typical developer. I often can&amp;rsquo;t resist the urge to try different platforms. My current blogging platform (blogger) has numerous limitations. I started looking for alternatives, and Ghost appeared on the radar.&lt;/p&gt;
+
+&lt;p&gt;Ghost is a ground up blogging platform, being developed under the premise that other platforms (such as word press) are becoming overly complex.&lt;/p&gt;
+
+&lt;p&gt;Before I go into too much detail, I should point out that Ghost is beta (maybe even alpha software).
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Linking to Google Drive images from your Blog</title>
+      <link>http://example.org/tech/2014/01/22/linking-to-google-drive-images-from-your-blog/</link>
+      <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/01/22/linking-to-google-drive-images-from-your-blog/</guid>
+      <description>&lt;p&gt;A good number of us have content stored on google drive. Wouldn&amp;rsquo;t it be handy if we could reference that content in our blog posts? Good news, you can!&lt;/p&gt;
+
+&lt;h2&gt;Steps&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Go to your google drive account.&lt;/li&gt;
+&lt;li&gt;Ensure the folder the item is in, is shared (use the option &lt;i&gt;Anyone who has the link can view&lt;/i&gt;).&lt;/li&gt;
+&lt;li&gt;Share the item (use the same option as above). Copy the &amp;ldquo;Link to Share&amp;rdquo; link.&lt;/li&gt;
+&lt;li&gt;Paste the link in the linkifier below&lt;/li&gt;
+&lt;li&gt;Copy the link produced, and insert it into your blog via any of your usual methods&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Entity Tags (Etags)... what they are and why they rock</title>
+      <link>http://example.org/tech/2014/01/14/entity-tags-etags-what-they-are-and-why-they-rock/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/01/14/entity-tags-etags-what-they-are-and-why-they-rock/</guid>
+      <description>Last week, a coworker asked me a question about Etags. I&amp;rsquo;d never heard of of Etags - in spite of them being around since 1999!
+  In a nutshell, an etag is an identifier assigned to a specific version of a hosted object by a webserver - for the purposes of caching.
+  Etags operate as follows:
+ A client sends a HTTP request for an object. The server returns the object to the client, along with the ETag value (as an Etag field, eg: ETag: &amp;ldquo;686897696a7c876b7e&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>Belkin WeMo Light Switch Review</title>
+      <link>http://example.org/diy/2014/01/06/belkin-wemo-light-switch-review/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/01/06/belkin-wemo-light-switch-review/</guid>
+      <description>&lt;p&gt;I recently purchased a Belkin WeMo light switch. I&amp;rsquo;ve been eyeing these off for a while. The general premise is pretty cool. It is a IP enabled light switch, with Iphone/Android control.&lt;/p&gt;
+
+&lt;p&gt;Install was pretty easy. It was simply a matter of cutting a hole in the gyprock (plaster board), and running some wires to my existing switch. Belkin provided some twist-on electrical connectors, which made the job very easy. Note that this &lt;em&gt;will not&lt;/em&gt; use any sort of standard Australian wall plate - so it is not going to look like your Clipsal switches. It does fit into a standard plasterboard C-Clip, so that is nice.&lt;/p&gt;
+
+&lt;p&gt;Once running, it was fairly easy to setup. After installing the WeMo app, I connected my phone to a new Wifi access point provided by the WeMo switch. The WeMo app then prompted me to enter my existing WiFi network details. From there, the switch connected to my home network and performed a firmware update, and we were in business.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Auto mocking with AutoMoq</title>
+      <link>http://example.org/tech/2013/12/18/auto-mocking-with-automoq/</link>
+      <pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2013/12/18/auto-mocking-with-automoq/</guid>
+      <description>&lt;p&gt;AutoMoq is a nice little package I came across today. The AutoMoq home page describes it as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;AutoMoq is an &amp;quot;auto-mocking&amp;quot; container that creates objects for you. Just tell it what class to create and it will create it.&lt;/blockquote&gt;
+
+&lt;p&gt;Why is this useful? Consider the following scenario. We have a BananaCakeFactory class, that relies on a Banana Repository.
+
+Here is the constructor:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Setting up SyntaxHighligher on Blogger</title>
+      <link>http://example.org/tech/2013/12/16/setting-up-syntaxhighligher-on-blogger/</link>
+      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2013/12/16/setting-up-syntaxhighligher-on-blogger/</guid>
+      <description>&lt;p&gt;As a technical blogger, one of my first questions was: &lt;blockquote&gt;how do I add syntax highlighting to my blog?&lt;/blockquote&gt; I discovered  &lt;a href=&#34;http://alexgorbatchev.com/SyntaxHighlighter/&#34;&gt;Syntax Highlighter&lt;/a&gt;.
+Syntax Highlighter is a fantastic tool. It looks good, it is easy to set up, and it supports a large number of languages.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VS2013 Web Essentials   Zen Coding is a huge time saver for web developers</title>
+      <link>http://example.org/tech/2013/10/13/vs2013-web-essentials---zen-coding-is-a-huge-time-saver-for-web-developers/</link>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2013/10/13/vs2013-web-essentials---zen-coding-is-a-huge-time-saver-for-web-developers/</guid>
+      <description>&lt;p&gt;As a web developer, I have regularly found myself needing to type a large amount of HTML layout code. Your page starts to grow, and your eyes begin to glaze over as you type DIV after DIV.&lt;/p&gt;
+
+&lt;p&gt;Enter &lt;a href=&#34;https://code.google.com/p/zen-coding/&#34;&gt;Zen Coding&lt;/a&gt;. In a nutshell, ZenCoding is a set of editor extensions, allowing a developer to use shorthand for common tasks. Microsoft have incorporated these extensions into &lt;a href=&#34;http://visualstudiogallery.msdn.microsoft.com/56633663-6799-41d7-9df7-0f2a504ca361&#34;&gt;Web Essentials&lt;/a&gt; for Visual Studio 2013.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nested Dependencies in MVC4</title>
+      <link>http://example.org/tech/2013/07/18/nested-dependencies-in-mvc4/</link>
+      <pubDate>Thu, 18 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2013/07/18/nested-dependencies-in-mvc4/</guid>
+      <description>&lt;p&gt;Given how complex the average MVC4 application can become, it is likely that you are going to come across the situation where you build up a dependency chain. It may look like this: Controller -&amp;gt; Provider/Manager -&amp;gt; Dependency&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;A common scenario may be that your controller needs a Lookup Manager, and that manager needs a cached query passed in.&lt;/p&gt;
+
+&lt;p&gt;In this scenario, the Unity.Mvc4 nuGet package comes into play.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/post/2017-10-25-stackable-boxes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2017-10-25-stackable-boxes/</guid>
+      <description>Stackable Box Nov 5, 2013 Stackable Box Jan 26, 2014 Parametric Stackable Box Aug 14, 2016 Stackable Box Aug 31, 2004 Stackable Box v4 June 22, 2015 Stackable Box V4 full / half height June 29, 2017 Stackable Box v4.1 April 22, 2017 Stackable Box Redrawn in Fusion March 14, 2017 Stackable Box (Thicker Version) Sept 12, 2016 StackableBox_1.1.4.1 Unfinished Dec 13, 2016</description>
+    </item>
+    
+  </channel>
+</rss>

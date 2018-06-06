@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekyll on DIYDeveloper.io</title>
+    <link>http://example.org/tags/jekyll/</link>
+    <description>Recent content in Jekyll on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Mar 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Create a tag cloud using Jekyll</title>
+      <link>http://example.org/tech/2014/03/09/create-a-tag-cloud-in-jekyll/</link>
+      <pubDate>Sun, 09 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/03/09/create-a-tag-cloud-in-jekyll/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently switched from Blogger to Github pages, and I&amp;rsquo;m using the very cool Jekyll app to manage my blog posts. For those that don&amp;rsquo;t know, Jekyll allows you to end your blog pages locally using Markup syntax, then it translates your post to HTML. From there, you commit it to a git repository.&lt;/p&gt;
+
+&lt;p&gt;One feature missing from Jekyll is Word Clouds. I will show you how to add one.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

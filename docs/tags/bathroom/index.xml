@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bathroom on DIYDeveloper.io</title>
+    <link>http://example.org/tags/bathroom/</link>
+    <description>Recent content in Bathroom on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/bathroom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to replace your exhaust fan</title>
+      <link>http://example.org/diy/2015/08/19/replace-your-exhaust-fan/</link>
+      <pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2015/08/19/replace-your-exhaust-fan/</guid>
+      <description>&lt;p&gt;Is your old exhaust fan too noisy? does it let cold air through from your ceiling cavity? Exhaust fans are easy to replace. I&amp;rsquo;ll show you how.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

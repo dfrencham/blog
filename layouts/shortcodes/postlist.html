@@ -1,0 +1,23 @@
+
+  {{ $.Scratch.Set "liststart" true }}
+  {{ range where (.Site.Pages.ByDate.Reverse) "Section" "post" }}
+    {{ if eq .IsPage true }}
+      {{ if eq ($.Scratch.Get "liststart") true }}
+        <h2>{{ .Date.Year }}</h2>
+        <ul>
+        {{ $.Scratch.Set "liststart" false }}
+        {{ $.Scratch.Set "yeargroup" .Date.Year }}
+      {{ end }}
+      {{ if ne ($.Scratch.Get "yeargroup") .Date.Year }}
+        </ul>
+        <h2>{{ .Date.Year }}</h2>
+        <ul>
+      {{ end }}
+      <li>
+          <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} - {{.Title }}</a>
+      </li>
+      {{  $.Scratch.Set "yeargroup" .Date.Year }}
+    {{ end }}
+  {{ end }}
+
+  </ul>

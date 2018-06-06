@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Single Page App on DIYDeveloper.io</title>
+    <link>http://example.org/tags/single-page-app/</link>
+    <description>Recent content in Single Page App on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jun 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/single-page-app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get Angular Running in 5 minutes </title>
+      <link>http://example.org/tech/2014/06/20/angular-in-5-minutes/</link>
+      <pubDate>Fri, 20 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/06/20/angular-in-5-minutes/</guid>
+      <description>&lt;p&gt;Want to try some &lt;a href=&#34;https://angularjs.org/&#34;&gt;Angular&lt;/a&gt; development? Need to get a dev environment set up? With a couple of automation tools, I&amp;rsquo;ll have you up and going in 5 minutes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Create a Single Page App in 2 Minutes using Ember App Kit</title>
+      <link>http://example.org/tech/2014/03/04/create-a-single-page-app-in-2-minutes-using-ember-app-kit/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/03/04/create-a-single-page-app-in-2-minutes-using-ember-app-kit/</guid>
+      <description>&lt;p&gt;Single Pages Apps (SPAs) are the current flavour of the month. They have seemingly appeared from nowhere, but now it seems like every developer is talking about them. Wikipedia describes this pattern as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A single-page application (SPA), also known as single-page interface (SPI), is a web application or web site that fits on a single web page with the goal of providing a more fluid user experience akin to a desktop application.
+In a SPA, either all necessary code – HTML, JavaScript, and CSS – is retrieved with a single page load, or the appropriate resources are dynamically loaded and added to the page as necessary, usually in response to user actions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In my experience they offer some advantages over traditional apps:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Very responsive&lt;/li&gt;
+&lt;li&gt;Rapid development time&lt;/li&gt;
+&lt;li&gt;Data is usually provided via a REST API - making integration to other systems easy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;along with some disadvantages:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Usually implemented with javascript (with all baggage it brings, such as horrendous function passing syntax everywhere)&lt;/li&gt;
+&lt;li&gt;Can be harder to debug - you can end up in dependency hell&lt;/li&gt;
+&lt;li&gt;Common tasks such as continuous integration is harder than with more mature patterns such as MVC (example: making javascript unit tests play nice with TFS).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The high responsiveness alone makes SPAs worth of investigating. Responsive web apps == happy users!&lt;/p&gt;
+
+&lt;p&gt;Now I&amp;rsquo;m going to show you how to build one.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shed on DIYDeveloper.io</title>
+    <link>http://example.org/tags/shed/</link>
+    <description>Recent content in Shed on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/shed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Build a base for your shed</title>
+      <link>http://example.org/diy/2014/04/29/build-a-base-for-your-shed/</link>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/diy/2014/04/29/build-a-base-for-your-shed/</guid>
+      <description>&lt;p&gt;When I moved into my house I inherited a very sad looking shed. It was jammed inbetween the house and the side fence, and sitting on dirt. Part of the shed had rusted, and it leaked. Now I could have paid someone $1000 to put down a concrete pad, but I already had sleepers, gravel, and some old pavers - more than enough for a shed base!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

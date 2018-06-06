@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Repair on DIYDeveloper.io</title>
+    <link>http://example.org/tags/repair/</link>
+    <description>Recent content in Repair on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Jul 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/repair/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Family vs Tech</title>
+      <link>http://example.org/tech/2014/07/19/family-vs-tech/</link>
+      <pubDate>Sat, 19 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/07/19/family-vs-tech/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

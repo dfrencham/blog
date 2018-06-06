@@ -1,4 +1,4 @@
-baseURL: http://diydeveloper.io
+baseURL: https://diydeveloper.io
 disablePathToLower: true
 languageCode: en-us
 title: DIYDeveloper.io
@@ -10,7 +10,7 @@ indexes:
 
 params :
   # Shown in the home page
-  sitetitle: DIYDeveloper.io
+  sitetitle: DIY Developer
   subtitle: "Power tools, software, 3d printing"
   brand: "DIYDev"
   disqus: "dannydotnet"
@@ -27,16 +27,15 @@ menu:
       weight: 1
       identifier: "home"
       url: "/"
-    - name: "Posts"
+    - name: "Archive"
       pre: "<i class='fa fa-list fa-fw'></i>"
       weight: 2
-      identifier: "post"
-      url: "/post/"
+      identifier: "archive"
+      url: "/posts/"
     - name: "About"
       pre: "<i class='fa fa-user fa-fw'></i>"
       weight: 3
       identifier: "about"
       url: "/about/"
 social:
-  twitter: "dfrencham"
   github: "dfrencham"

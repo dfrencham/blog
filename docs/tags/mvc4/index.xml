@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mvc4 on DIYDeveloper.io</title>
+    <link>http://example.org/tags/mvc4/</link>
+    <description>Recent content in Mvc4 on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jul 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/mvc4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nested Dependencies in MVC4</title>
+      <link>http://example.org/tech/2013/07/18/nested-dependencies-in-mvc4/</link>
+      <pubDate>Thu, 18 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2013/07/18/nested-dependencies-in-mvc4/</guid>
+      <description>&lt;p&gt;Given how complex the average MVC4 application can become, it is likely that you are going to come across the situation where you build up a dependency chain. It may look like this: Controller -&amp;gt; Provider/Manager -&amp;gt; Dependency&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;A common scenario may be that your controller needs a Lookup Manager, and that manager needs a cached query passed in.&lt;/p&gt;
+
+&lt;p&gt;In this scenario, the Unity.Mvc4 nuGet package comes into play.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

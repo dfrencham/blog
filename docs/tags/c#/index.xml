@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# on DIYDeveloper.io</title>
+    <link>http://example.org/tags/c#/</link>
+    <description>Recent content in C# on DIYDeveloper.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Feb 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/c#/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fix Visual Studio taking a long time to load debug symbols</title>
+      <link>http://example.org/tech/2014/02/06/fix-visual-studio-taking-a-long-time-to-load-debug-symbols/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2014/02/06/fix-visual-studio-taking-a-long-time-to-load-debug-symbols/</guid>
+      <description>I lost a good couple of hours tracking this one down. If Visual Studio is taking a very long time to load debug symbols when debugging (think 5 minutes to 30 minutes), try this&amp;hellip;
+Delete all break points (Debug - &amp;gt; Delete All Break Points).
+Sometimes something small like this can be a lot more frustrating than a big issue. Hopefully this saves someone from going crazy.</description>
+    </item>
+    
+    <item>
+      <title>Auto mocking with AutoMoq</title>
+      <link>http://example.org/tech/2013/12/18/auto-mocking-with-automoq/</link>
+      <pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2013/12/18/auto-mocking-with-automoq/</guid>
+      <description>&lt;p&gt;AutoMoq is a nice little package I came across today. The AutoMoq home page describes it as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;AutoMoq is an &amp;quot;auto-mocking&amp;quot; container that creates objects for you. Just tell it what class to create and it will create it.&lt;/blockquote&gt;
+
+&lt;p&gt;Why is this useful? Consider the following scenario. We have a BananaCakeFactory class, that relies on a Banana Repository.
+
+Here is the constructor:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nested Dependencies in MVC4</title>
+      <link>http://example.org/tech/2013/07/18/nested-dependencies-in-mvc4/</link>
+      <pubDate>Thu, 18 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tech/2013/07/18/nested-dependencies-in-mvc4/</guid>
+      <description>&lt;p&gt;Given how complex the average MVC4 application can become, it is likely that you are going to come across the situation where you build up a dependency chain. It may look like this: Controller -&amp;gt; Provider/Manager -&amp;gt; Dependency&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;A common scenario may be that your controller needs a Lookup Manager, and that manager needs a cached query passed in.&lt;/p&gt;
+
+&lt;p&gt;In this scenario, the Unity.Mvc4 nuGet package comes into play.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
