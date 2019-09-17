@@ -14,8 +14,6 @@ url: /tech/2018/06/07/12v-fan-on-24v-printer/
 More and more 3d printers are coming with 24 volt fans... which can be a problem
 because 24v fans can be hard to find. Here is how you can attach a 12 volt Noctua fan.
 
-<!--more-->
-
 If you want a great, quiet hot-end fan... look no further than the <a target="_blank" href="https://www.amazon.com/gp/product/B009NQLT0M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009NQLT0M&linkCode=as2&tag=dide00-20&linkId=1d6e2ba2aa4b6fdb8ae5a887fe5121fd">Noctua (NF-A4x10 FLX)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=dide00-20&l=am2&o=1&a=B009NQLT0M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. It is 12volt, practically silent, and comes with some handy adaptors.
 
 The OmniJoin adaptor is the black connector in the first photo with 2 wires attached. You'll also need: 
@@ -24,6 +22,8 @@ The OmniJoin adaptor is the black connector in the first photo with 2 wires atta
 - a 2 pin JST plug (for the printer end)
 - soldering iron
 - multi meter
+
+<!--more-->
 
 <img class="pure-img blog-img " src="/images/i3plusfan1.jpg" alt="parts" />
 *Parts needed*
