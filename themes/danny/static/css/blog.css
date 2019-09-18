@@ -12,7 +12,7 @@
 /*
 This is the parent `<div>` that contains the menu and the content area.
 */
-#layout {
+/* #layout {
   position: relative;
   left: 0;
   padding-left: 0;
@@ -24,7 +24,7 @@ This is the parent `<div>` that contains the menu and the content area.
 
   #layout.active .menu-link {
       left: 150px;
-  }
+  } */
 /*
 The content `<div>` is where all your content goes.
 */
@@ -350,9 +350,9 @@ pre {
 } */
 
 article {
-  font-size: 18.2px;
   font-family: georgia, Arial, sans-serif;
   color:rgb(89, 83, 82);
+  overflow-wrap: break-word;
 }
 
 .box-green {
@@ -919,19 +919,30 @@ article > .post-header {
   text-align: center;
 }
 
-/*@media (min-width: 800px)
+@media (min-width: 800px)
 {
   .title-box {
     top: 250px;
     left: 20%;
     right: 20%;
   }
-  header.title-header {
+  header h1 {
+    font-size: 3em;
+  }
+
+  header .title-header {
     background: #000 url('/images/header.jpg') no-repeat center top;
     background-attachment: fixed;
-    height: 400px;
+    padding-top: 10px;
+    height: 300px;
   }
-  .title-inner {
+
+  article {
+      font-size: 18px;
+      overflow-wrap: normal;
+  }
+}
+ /* .title-inner {
     max-width: 1050px;
     text-align: left;
     padding-top: 50px;

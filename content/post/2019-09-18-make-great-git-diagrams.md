@@ -18,7 +18,7 @@ If you're a developer, sooner or later you find yourself having to talk about gi
 See the nice diagram below? it is being created in real time by [gitgraph.js](https://github.com/nicoespeon/gitgraph.js).
 
 <script src="https://cdn.jsdelivr.net/npm/@gitgraph/js" crossorigin="anonymous"></script>
-<div id="graph-container" class="add-scroll"></div>
+<div id="graph-container" class="add-scroll" style="overflow-x: scroll"></div>
 
 <script>
 
