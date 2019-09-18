@@ -1,5 +1,5 @@
 ---
-title: List
+title: Post Archive
 ---
 
 {{< postlist >}}

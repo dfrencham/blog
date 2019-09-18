@@ -1,6 +1,5 @@
 baseURL: https://diydeveloper.io
 disablePathToLower: true
-languageCode: en-us
 title: DIYDeveloper.io
 theme: danny
 
@@ -31,7 +30,7 @@ menu:
       pre: "<i class='fa fa-list fa-fw'></i>"
       weight: 2
       identifier: "archive"
-      url: "/posts/"
+      url: "/archive/"
     - name: "About"
       pre: "<i class='fa fa-user fa-fw'></i>"
       weight: 3

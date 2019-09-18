@@ -1,21 +1,12 @@
 {{ partial "header.html" . }}
-
 {{ partial "page_header.html" . }}
 
-<div class="content">
-
-    <div class="page-header">
-        <h1>{{ .Title }}</h1>
-    </div>
-  
-  {{ partial "post_meta.html" . }}
-
-  {{ .Content }}
-
+<section class="content">
+  <div class="pure-g post-index">
+    {{ partial "post_article.html" . }}
+  </div>
   {{ partial "prev_next_post.html" . }}
-
-  {{ partial "disqus.html" . }}
-
-</div>
+  {{/*  {{ partial "disqus.html" . }}  */}}
+</section>
 
 {{ partial "footer.html" . }}
