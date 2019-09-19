@@ -13,8 +13,6 @@ params :
   subtitle: "Power tools, software, 3d printing"
   brand: "DIYDev"
   disqus: "dannydotnet"
-  # CSS name for highlight.js
-  #highlightjs: "androidstudio"
   dateFormat: "02 Jan 2006"
   #publishDir: "docs"
   googleAnalytics: "UA-48772536-1"

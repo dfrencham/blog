@@ -99,59 +99,6 @@ The content `<div>` is where all your content goes.
   color: #FFFFFF;
 }
 
-/*header.title-header {
-  background: #000 url('/assets/images/header-small.jpg') no-repeat center top;
-  background-attachment: fixed;
-  height: 200px;
-}
-
-.title-box {
-  left: 10px;
-  right: 10px;
-  position: absolute;
-}
-
-.title-inner {
-  max-width: 1050px;
-  text-align: left;
-  margin: 0 auto;
-  padding: 10px;
-}
-
-.title-header-text {
-  font-family: 'Special Elite','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 40px;
-  font-weight: bold;
-  color: #FFFFFF;
-  text-shadow: 2px 2px #000000;
-  padding-left: 20px;
-}
-
-.title-header-text > a {
-  text-decoration: none;
-  color: #FFFFFF;
-}
-
-.title-tagline-text {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 20px;
-  color: #FFFFFF;
-  margin-top: -10px;
-  text-shadow: 2px 2px #000000;
-}
-
-.titlewrap {
-  background: #000 url('/assets/images/titlebar.jpg') no-repeat center top;
-  background-attachment: fixed;
-  text-align: center;
-  padding-bottom: 10px;
-}
-
-.titlewrapwrap {
-  margin-top: -20px;
-  background-color:#000000;
-}*/
-
 /* global overrides */
 
 h4,h3,h2,h1 {
@@ -734,7 +681,7 @@ ul.howto li img {
   /* individual posts */
 
   /* front page */
-  article.blog-post {
+  .article-list article.blog-post {
     border-bottom: 1px grey dashed;
     padding-bottom: 20px;
   }
@@ -826,7 +773,6 @@ ul.howto li img {
 #page-header .header {
   background: #000 url(/images/header.jpg) no-repeat center top;
   background-attachment: fixed;
-  background-position: -300px -90px;
 }
 
 footer.page-footer {
@@ -895,30 +841,6 @@ pre code {
   font-size: 1em;
 }
 
-/* @media (max-width: 500px) {
-  .add-scroll {
-    overflow-x: auto;
-    box-shadow: 2px 2px 5px #00000075
-  }
-} */
-
-@media (min-width: 800px) {
-  /* #main .header {
-    background: #000 url(/images/header.jpg) no-repeat center top;
-    background-attachment: fixed;
-    height: 300px;
-    background-position: 0 0;
-  } */
-
-  /* #main {
-    background-color: cornsilk;
-  }
-
-  section.content {
-    background-color: white;
-  } */
-}
-
 .taxonomy-tag {
   border-radius: 10px;
   border-width: 0;
@@ -984,31 +906,12 @@ article > .post-header {
     margin-bottom: 0px;
   }
 }
- /* .title-inner {
-    max-width: 1050px;
-    text-align: left;
-    padding-top: 50px;
-    margin: 0 auto;
+
+@media (min-width: 1200px) {
+  .content {
+    justify-content: center;
   }
-  .title-header-text {
-    font-family: 'Special Elite','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-size: 60px;
-    font-weight: bold;
-    color: #FFFFFF;
-    text-shadow: 2px 2px #000000;
-    bottom: 20%;
-  }
-  .title-header-text > a {
-    text-decoration: none;
-    color: #FFFFFF;
-  }
-  .titlewrap {
-    background: #000 url('/assets/images/titlebar.jpg') no-repeat left bottom;
-    height: 200px;
-    background-attachment: fixed;
-    text-align: center;
-  }
-}*/
+}
 
 .btn-social-icon {
   height: 22px;
