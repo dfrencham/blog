@@ -1,10 +1,8 @@
-<div class="pure-u-1">
-    <article class="blog-post">
-        <div class="post-header">
-            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        </div>
-        {{ partial "post_meta.html" . }}
-        {{ .Content }}
-        /eof
-    </article>
-</div>
+<article class="blog-post">
+    <div class="post-header">
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    </div>
+    {{ partial "post_meta.html" . }}
+    {{ .Content }}
+    <p>/eof</p>
+</article>

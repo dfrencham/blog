@@ -42,32 +42,28 @@
               <i class="fa {{ $.Scratch.Get "icon" }}" aria-hidden="true"></i>{{ $.Scratch.Get "group" }}
           </p>
       </div> -->
-      <div class="">
-        <p>           
+      <div class="social-buttons"> 
             <a class="btn btn-social-icon btn-twitter" href="http://twitter.com/share?url={{ .Permalink }}&amp;text={{ .Title }}&amp;via=dfrencham"><i class="fa fa-twitter"></i></a>
             <a class="btn btn-social-icon btn-facebook" href="http://www.facebook.com/sharer.php?u={{ .Permalink }}&amp;t={{ .Title }}"><i class="fa fa-facebook"></i></a>
             <a class="btn btn-social-icon btn-linkedin" href="http://www.linkedin.com/shareArticle?url={{ .Permalink }}"><i class="fa fa-linkedin"></i></a>  
             <a class="btn btn-social-icon btn-reddit" href="https://reddit.com/submit?url={{ .Permalink }}&title={{ .Title }}"><i class="fa fa-reddit"></i></a>      
-          </p>
      </div>
-     <div class="">
-          <p>
-          <span class="taxonomy-tag">             
+     <div class="tags">
+          <div class="taxonomy-tag">             
               <i class="fa fa-calendar fa-fw"></i>            
               <time>{{ with .Site.Params.dateFormat }}{{ $.Date.Format . }}{{ else }}{{ .Date.Format "02 Jan 2006, 15:04" }}{{ end }}</time> 
-          </span>
+          </div>
           {{ if isset .Params "tags" }}
             {{ $count := len .Params.tags }}
             {{ if gt $count 0 }}
               {{ range $k, $v := .Params.tags }}
-                <span class="taxonomy-tag">             
+                <div class="taxonomy-tag">             
                     <i class="fa fa-tags fa-fw"></i>            
                     <a class="post-taxonomy-tag" href="{{ $baseUrl }}tags/{{ . | urlize }}">{{ . }}</a>
-                </span>
+                </div>
               {{ end }}
             {{ end }}
           {{ end }}
-          </p>
       </div>
       {{/*  <div style="clear:both;"></div>  */}}
   </div>

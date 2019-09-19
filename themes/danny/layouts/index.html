@@ -2,40 +2,26 @@
 {{ partial "page_header.html" . }}
 
 <section class="content">
-  <div class="pure-g">
-    <div class="pure-u-md-3-4 pure-u-sm-1 left-col">
-    {{ if not .Paginator.HasPrev }}
-      <div class="pure-g post-index">
-        {{ range first 4 .Site.RegularPages }}
-        {{ partial "post_article.html" . }}
-        {{ end }}
-      </div>
-    {{ else }}
-      {{ partial "pagination.html" . }}
-      <div class="pure-g post-index">
-        {{ range first 4 (after (add 4 .Paginator.PageNumber) .Site.RegularPages) }}
-        {{ partial "post_article.html" . }}
-        {{ end }}
-      </div>
-    {{ end }}
+  <div class="left-col">
+  {{ if not .Paginator.HasPrev }}
+    <div class="post-index">
+      {{ range first 4 .Site.RegularPages }}
+      {{ partial "post_article.html" . }}
+      {{ end }}
+    </div>
+  {{ else }}
     {{ partial "pagination.html" . }}
-    {{ partial "footer_big.html" . }}
+    <div class="post-index">
+      {{ range first 4 (after (add 4 .Paginator.PageNumber) .Site.RegularPages) }}
+      {{ partial "post_article.html" . }}
+      {{ end }}
     </div>
-    <div class="pure-u-md-1-4 pure-u-sm-1 right-col">
-        <h3>About</h3>
-        <div>
-        Danny Frencham is a 30-something software developer, based in Brisbane Australia.
-        </div>
-        <h3>Projects</h3>
-        <ul style="list-style: none; text-align: left; padding-left: 10px;">
-          <li><a href="https://github.com/dfrencham/vscode-chutzpahrunner">vscode-chutzpahrunner</a></li>
-          <li><a href="https://github.com/dfrencham/rad-gate">rad-gate</a></li>
-        </ul>
-        <h3>Tags</h3>
-        <div class="tagcloud">
-          {{ partial "tagcloud.html" . }}
-        </div>
-    </div>
+  {{ end }}
+  {{ partial "pagination.html" . }}
+  {{ partial "footer_big.html" . }}
+  </div>
+  <div class="right-col">
+      {{ partial "about_right.html" . }}
   </div>
 </section>
 

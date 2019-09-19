@@ -2,10 +2,15 @@
 {{ partial "page_header.html" . }}
 
 <section class="content">
-  <div class="pure-g post-index">
-    {{ partial "post_article.html" . }}
+  <div class="left-col">
+    <div class="post-index">
+      {{ partial "post_article.html" . }}
+      {{ partial "prev_next_post.html" . }}
+    </div>
   </div>
-  {{ partial "prev_next_post.html" . }}
+  <div class="right-col">
+      {{ partial "about_right.html" . }}
+  </div>
   {{/*  {{ partial "disqus.html" . }}  */}}
 </section>
 

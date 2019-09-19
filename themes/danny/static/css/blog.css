@@ -1,3 +1,7 @@
+body {
+  margin: 0px;
+}
+
 .header {
   font-family: "Raleway", Helvetica, Arial, sans-serif
 }
@@ -29,11 +33,10 @@ This is the parent `<div>` that contains the menu and the content area.
 The content `<div>` is where all your content goes.
 */
 .content {
-  /* margin: 0 auto;
-  padding: 0 2em; */
-  /*max-width: 800px;*/
-  margin-bottom: 50px;
   line-height: 1.6em;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
 }
 .pure-g > div {
   -webkit-box-sizing: border-box;
@@ -45,9 +48,11 @@ The content `<div>` is where all your content goes.
   border-left: 2px solid rgb(238, 236, 229);
   padding: 10px 40px;
   text-align: center;
+  width: 100%;
 }
 .left-col {
-  padding: 10px 30px;
+  padding: 10px 10px;
+  min-width: 0;
 }
 
 .header {
@@ -212,7 +217,7 @@ h1 {
 
 .post-index {
   margin: 0 auto;
-  max-width: 900px;
+  max-width: 800px;
 }
 
 .post-index .post {
@@ -251,15 +256,25 @@ a:visited {
   background-color: lightskyblue;
   border-radius: 12px;
   box-shadow: 2px 2px 5px #00000075;
+  padding: 10px;
 }
 
 .post-meta .article-meta {
-  display: table;
-  width: 96%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.post-meta .article-meta .tags {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.post-meta .social-buttons {
+  display: flex;
 }
 
 .post-meta .article-meta > div {
-  display: table-cell;
   vertical-align: middle;
 }
 
@@ -287,16 +302,16 @@ time,.taxonomy-tag {
   padding-bottom: 2em;
   border-top: 1px solid #eee;
   border-bottom: 1px solid #eee;
+  display: flex;
+  justify-content: center;
 }
 
 .prev-next-post .prev {
-  float: left;
   text-align: left;
   overflow: hidden;
 }
 
 .prev-next-post .next {
-  float: right;
   text-align: right;
   overflow: hidden;
 }
@@ -338,6 +353,9 @@ pre {
     margin-right: -3000px !important; */
     padding: 15px 10px 15px 10px !important;
     font-size: 0.8em;
+    display: inline-block;
+    overflow-x: auto !important;
+    width: 90%;
 }
 
 /* pre code {
@@ -406,6 +424,8 @@ article {
 
 .blog-img {
   padding-bottom: 10px;
+  max-width: 100%;
+  height: auto;
 }
 
 .pad10 {
@@ -803,14 +823,13 @@ ul.howto li img {
   border-width: 0;
 }
 
-#main .header {
+#page-header .header {
   background: #000 url(/images/header.jpg) no-repeat center top;
   background-attachment: fixed;
   background-position: -300px -90px;
 }
 
 footer.page-footer {
-  margin-top: 30px;
   background-color: #454545;
   color: #ffffff;
   width: 100%;
@@ -861,11 +880,12 @@ pre.code-scroll {
 
 code {
   font-family: monospace,"Monaco",Consolas;
-  font-size: 0.8em;
+  font-size: 0.7em;
   color: #d14;
   background-color: #f7f7f9;
   border: 1px solid #e1e1e8;
   padding: 2px 4px;
+  overflow-wrap: break-word;
 }
 
 pre code {
@@ -905,6 +925,8 @@ pre code {
   background-color: #f5f5f5;
   padding: 4px;
   margin-left: 8px;
+  margin-top: 4px;
+  margin-bottom: 4px;
 }
 
 /* article.post > footer {
@@ -941,6 +963,26 @@ article > .post-header {
       font-size: 18px;
       overflow-wrap: normal;
   }
+
+  .right-col {
+    width: 200px;
+    min-width: 0;
+    font-family: sans-serif;
+  }
+
+  .left-col {
+    padding: 10px 30px;
+  }
+
+  code {
+    font-size: 0.8em;
+    overflow-wrap: normal;
+  }
+
+  .taxonomy-tag {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
 }
  /* .title-inner {
     max-width: 1050px;
@@ -971,4 +1013,5 @@ article > .post-header {
 .btn-social-icon {
   height: 22px;
   width: 20px;
+  margin-right: 4px;
 }
