@@ -6,7 +6,6 @@
             {{ range .Site.Menus.main }}
               <a class="icon-link" {{ printf "href=%q" .URL | safeHTMLAttr }}>{{ .Pre }}{{ .Name }}</a>
             {{end}}
-            <a class="icon-link" href="{{ .RSSLink }}"><i class="fa fa-rss fa-fw"></i>RSS</a>
             <a class="icon-link" href="https://github.com/dfrencham" target="_blank"><i class="fa fa-github-square fa-fw"></i>GitHub</a>
     
         </div>

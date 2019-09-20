@@ -863,6 +863,20 @@ article > .post-header {
   text-align: center;
 }
 
+.post-grid .col1 {
+  float: left;
+}
+
+.post-grid .col2 {
+  float: right;
+}
+
+.pure-img {
+  max-width: 100%;
+  height: auto;
+  display: block
+}
+
 @media (min-width: 800px)
 {
   .title-box {

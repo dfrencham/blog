@@ -1,34 +1,30 @@
-<div class="pure-g dashed-top">
-        <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-2">
-    
-          <h3>Build It</h3>
-          <ul>
-            {{ range $.Site.Taxonomies.tags.flooring.Pages}}
-            <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
-            {{ end }}
-          </ul>
-    
-          <h3>Fix It</h3>
-          <ul>
-            {{ range (index $.Site.Taxonomies.tags "fix-it").Pages }}
-            <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
-            {{ end }}
-          </ul>
-        </div>
-    
-        <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-1-2">
-          <h3>Code It</h3>
-          <ul>
-            {{ range first 10 $.Site.Taxonomies.tags.programming.Pages}}
-            <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
-            {{ end }}
-          </ul>
-    
-          <h3>Tech Guides</h3>
-          <ul>
-            {{ range (index $.Site.Taxonomies.tags "tech-guide").Pages }}
-            <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
+<div class="post-grid">
+  <div class="col1">
+    <h3>Build It</h3>
+    <ul>
+      {{ range $.Site.Taxonomies.tags.flooring.Pages}}
+      <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+      {{ end }}
+    </ul>
+    <h3>Fix It</h3>
+    <ul>
+      {{ range (index $.Site.Taxonomies.tags "fix-it").Pages }}
+      <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+      {{ end }}
+    </ul>
+  </div>
+  <div class="col2">
+    <h3>Code It</h3>
+    <ul>
+      {{ range first 10 $.Site.Taxonomies.tags.programming.Pages}}
+      <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+      {{ end }}
+    </ul>
+    <h3>Tech Guides</h3>
+    <ul>
+      {{ range (index $.Site.Taxonomies.tags "tech-guide").Pages }}
+      <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+      {{ end }}
+    </ul>
+  </div>
+</div>
