@@ -104,9 +104,11 @@ To create a custom template, call `GitgraphJS.templateExtend(templateName, optio
 - GitgraphJS.TemplateName.Metro
 - GitgraphJS.TemplateName.BlackArrow
 
-The options object provides all the overrides. To see which objects you can override, take a look in the [Gitgraph repo](https://github.com/nicoespeon/gitgraph.js/blob/master/packages/gitgraph-core/src/template.ts);
+The options object provides all the overrides. To see which objects you can override, take a look in the [Gitgraph repo](https://github.com/nicoespeon/gitgraph.js/blob/master/packages/gitgraph-core/src/template.ts).
 
-Pass the new template object into the create call: `createGitgraph(container, { template: yourTemplate })`
+Pass the new template object into the create call createGraph(): 
+
+`createGitgraph(container, { template: yourTemplate })`
 
 Check out the code sample for more detail.
 
