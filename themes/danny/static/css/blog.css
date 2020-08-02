@@ -440,7 +440,7 @@ table.vert-text th {
   color: #666;
   font-weight: bold;
 }
-table.vert-text td, th {
+table.vert-text td, table.vert-text th {
   padding: 10px;
   text-align: center;
   border: solid 1px #999;
@@ -932,3 +932,18 @@ article > .post-header {
   width: 20px;
   margin-right: 4px;
 }
+
+/* basic table */
+.basic-table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+.basic-table thead td {
+  font-weight: bold;
+}
+.basic-table tbody td, .basic-table thead th {
+  padding: 4px 30px;
+  border: 1px solid black;
+}
+/* end basic table */
